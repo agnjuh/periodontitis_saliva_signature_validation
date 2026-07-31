@@ -1,0 +1,7 @@
+contrast	reference_method	comparison_method	features	fully_direction_consistent	leave_one_out_direction_stable	consistent_with_abs_mean_ge_1	median_absolute_effect	maximum_absolute_effect
+M_minus_WS	WS	M	175	116	148	78	1.0510546625148784	6.483156822864466
+Q_minus_WS	WS	Q	175	111	137	46	0.7428843648226984	5.221109197610738
+UC_minus_WS	WS	UC	175	102	131	41	0.5992568535154922	4.831933159167675
+M_minus_Q	Q	M	175	106	140	41	0.5782790870053812	4.772949832238637
+M_minus_UC	UC	M	175	99	131	29	0.49501029723349355	4.623230484561344
+Q_minus_UC	UC	Q	175	66	108	11	0.2593317165730902	3.181096267102543

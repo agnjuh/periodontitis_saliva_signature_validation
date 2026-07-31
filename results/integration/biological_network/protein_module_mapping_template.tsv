@@ -1,0 +1,3 @@
+module_node_id	module_name	module_candidate_tier	module_reproducibility_score	protein_node_id	protein_gene_symbol	membership_source	membership_definition	membership_weight	curation_status	review_notes
+protein_module:module:blood_erythrocyte	blood_erythrocyte	high_confidence	96.327						not_reviewed	
+protein_module:module:oxidative_stress	oxidative_stress	prioritised	91.227						not_reviewed	

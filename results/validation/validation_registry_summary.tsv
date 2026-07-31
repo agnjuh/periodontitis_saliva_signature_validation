@@ -1,0 +1,14 @@
+metric	value
+candidate_entities	79
+protein_candidates	51
+mirna_candidates	26
+module_candidates	2
+annotated_candidates	0
+measurable_proteome_members	0
+robust_longitudinal_candidates	0
+robust_T1_vs_T0_candidates	0
+robust_T6_vs_T0_candidates	0
+robust_module_members	0
+validated_mirna_targets	0
+significant_pathway_members	0
+tier::candidate only	79

@@ -1,0 +1,35 @@
+Validation registry build report
+================================
+
+Repository root: /Users/agnesjuhasz/Documents/periodontitis_saliva_signature_validation
+Candidate entities: 79
+Registry columns: 48
+
+Evidence coverage:
+- candidate_entities: 79
+- protein_candidates: 51
+- mirna_candidates: 26
+- module_candidates: 2
+- annotated_candidates: 0
+- measurable_proteome_members: 0
+- robust_longitudinal_candidates: 0
+- robust_T1_vs_T0_candidates: 0
+- robust_T6_vs_T0_candidates: 0
+- robust_module_members: 0
+- validated_mirna_targets: 0
+- significant_pathway_members: 0
+- tier::candidate only: 79
+
+Interpretation notes:
+- Evidence tiers describe repository-derived support.
+- They are not clinical validation grades.
+- Missing external evidence is coded as not_assessed.
+- Missing evidence is not interpreted as biological absence.
+- GCF, EV and independent-cohort evidence require curated inputs.
+
+Output files:
+- /Users/agnesjuhasz/Documents/periodontitis_saliva_signature_validation/results/validation/validation_registry.tsv
+- /Users/agnesjuhasz/Documents/periodontitis_saliva_signature_validation/results/validation/validation_registry.csv
+- /Users/agnesjuhasz/Documents/periodontitis_saliva_signature_validation/results/validation/validation_registry_summary.tsv
+- /Users/agnesjuhasz/Documents/periodontitis_saliva_signature_validation/results/validation/validation_registry_input_manifest.json
+- /Users/agnesjuhasz/Documents/periodontitis_saliva_signature_validation/results/validation/pathway_evidence_registry.tsv

@@ -1,0 +1,6 @@
+feature_type	node_class	evidence_role	n_nodes	n_network_eligible	n_regulatory_sources	n_regulatory_targets	n_module_mapping_eligible	mean_reproducibility_score	median_reproducibility_score	minimum_reproducibility_score	maximum_reproducibility_score
+protein	molecular_feature	longitudinal_biological_response	51	51	0	51	51	88.206	86.921	81.419	100.0
+protein_module	biological_module	longitudinal_functional_response	2	2	0	0	2	93.777	93.777	91.227	96.327
+mature_miRNA	regulatory_rna	case_control_biological_signal	1	1	1	0	0	75.0	75.0	75.0	75.0
+miRNA_associated_locus	technical_feature	technical_method_sensitivity	24	0	0	0	0	74.459	72.3	61.612	100.0
+probable_miRNA_host_gene	technical_or_regulatory_locus	technical_method_sensitivity	1	0	0	0	0	62.354	62.354	62.354	62.354

@@ -1,0 +1,10 @@
+category	metric	value
+network	total_nodes	29
+network	total_edges	63
+node_type	pathway	17
+node_type	protein	12
+edge_type	member_of_pathway	63
+pathway_priority	exploratory	1
+pathway_priority	exploratory_relevant	5
+pathway_priority	low_interpretation_priority	10
+pathway_priority	primary	1

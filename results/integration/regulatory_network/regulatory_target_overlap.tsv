@@ -1,0 +1,52 @@
+candidate_feature_id	candidate_gene_symbol	has_validated_mirna_edge	n_regulatory_mirnas	maximum_n_databases	maximum_n_publications	regulatory_mirnas	strongest_evidence
+B2M	B2M	True	1.0	1.0	1.0	hsa-miR-143-3p	supportive
+CHI3L2	CHI3L2	True	1.0	1.0	1.0	hsa-miR-143-3p	supportive
+FLNA	FLNA	True	1.0	1.0	2.0	hsa-miR-143-3p	supportive
+LMNB1	LMNB1	True	1.0	1.0	1.0	hsa-miR-143-3p	supportive
+MYH9	MYH9	True	1.0	1.0	1.0	hsa-miR-143-3p	supportive
+SPTAN1	SPTAN1	True	1.0	1.0	1.0	hsa-miR-143-3p	supportive
+SPTBN1	SPTBN1	True	1.0	1.0	5.0	hsa-miR-143-3p	supportive
+A2ML1	A2ML1	False					
+ANP32A	ANP32A	False					
+ANXA1	ANXA1	False					
+ATP5B	ATP5B	False					
+BASP1	BASP1	False					
+BLVRB	BLVRB	False					
+BPIFA2	BPIFA2	False					
+BPIFB1	BPIFB1	False					
+BPIFB2	BPIFB2	False					
+CA1	CA1	False					
+CA2	CA2	False					
+CALML3	CALML3	False					
+CLU	CLU	False					
+CORO1A	CORO1A	False					
+DMBT1	DMBT1	False					
+DSC2	DSC2	False					
+DSG3	DSG3	False					
+EEF1G	EEF1G	False					
+FAM3D	FAM3D	False					
+FAM49B	FAM49B	False					
+HBD	HBD	False					
+HINT1	HINT1	False					
+HSPB1	HSPB1	False					
+IGKV1-5	IGKV15	False					
+KLK1	KLK1	False					
+LAMTOR5	LAMTOR5	False					
+LPO	LPO	False					
+LSP1	LSP1	False					
+MUC7	MUC7	False					
+NME1	NME1	False					
+NUCB2	NUCB2	False					
+PRDX2	PRDX2	False					
+PRH1	PRH1	False					
+PRTN3	PRTN3	False					
+S100A12	S100A12	False					
+S100A8	S100A8	False					
+S100A9	S100A9	False					
+SBSN	SBSN	False					
+SERPINB10	SERPINB10	False					
+SERPINB13	SERPINB13	False					
+SERPINB3	SERPINB3	False					
+SPRR3	SPRR3	False					
+TCN1	TCN1	False					
+VASP	VASP	False					

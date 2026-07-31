@@ -1,0 +1,12 @@
+https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9349nnn/GSM9349427/suppl/GSM9349427_WS_11113_S1_R1_001.txt.gz
+https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9349nnn/GSM9349428/suppl/GSM9349428_UC_11113_S2_R1_001.txt.gz
+https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9349nnn/GSM9349429/suppl/GSM9349429_Q_11113_S3_R1_001.txt.gz
+https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9349nnn/GSM9349430/suppl/GSM9349430_M_11113_S4_R1_001.txt.gz
+https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9349nnn/GSM9349431/suppl/GSM9349431_WS_12114_S5_R1_001.txt.gz
+https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9349nnn/GSM9349432/suppl/GSM9349432_UC_12114_S6_R1_001.txt.gz
+https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9349nnn/GSM9349433/suppl/GSM9349433_Q_12114_S7_R1_001.txt.gz
+https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9349nnn/GSM9349434/suppl/GSM9349434_M_12114_S8_R1_001.txt.gz
+https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9349nnn/GSM9349435/suppl/GSM9349435_WS_38169_S9_R1_001.txt.gz
+https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9349nnn/GSM9349436/suppl/GSM9349436_UC_38169_S10_R1_001.txt.gz
+https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9349nnn/GSM9349437/suppl/GSM9349437_Q_38169_S11_R1_001.txt.gz
+https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9349nnn/GSM9349438/suppl/GSM9349438_M_38169_S12_R1_001.txt.gz

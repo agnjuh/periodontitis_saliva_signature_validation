@@ -1,0 +1,181 @@
+sample_id,module,module_description,expected_treatment_direction,module_abundance_score,response_oriented_score,available_proteins_in_module,module_size,patient_id,timepoint
+P01_T0,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,1.8944371441272516,-1.8944371441272516,3,3,P01,T0
+P01_T1,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,1.2416661648660507,-1.2416661648660507,3,3,P01,T1
+P01_T6,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,0.38264018603886624,-0.38264018603886624,3,3,P01,T6
+P02_T0,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,0.6801754084136377,-0.6801754084136377,3,3,P02,T0
+P02_T1,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,-0.7787416232126945,0.7787416232126945,3,3,P02,T1
+P02_T6,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,-0.7453545434391189,0.7453545434391189,3,3,P02,T6
+P05_T0,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,0.432998368199228,-0.432998368199228,3,3,P05,T0
+P05_T1,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,-0.9503287120516059,0.9503287120516059,3,3,P05,T1
+P05_T6,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,-1.1458233823092228,1.1458233823092228,3,3,P05,T6
+P07_T0,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,0.669340928948596,-0.669340928948596,3,3,P07,T0
+P07_T1,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,-0.4471488391375997,0.4471488391375997,3,3,P07,T1
+P07_T6,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,-1.4452798742014388,1.4452798742014388,3,3,P07,T6
+P11_T0,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,0.7933868361104986,-0.7933868361104986,3,3,P11,T0
+P11_T1,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,-1.079418421109226,1.079418421109226,3,3,P11,T1
+P11_T6,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,-0.11529856517451766,0.11529856517451766,3,3,P11,T6
+P13_T0,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,2.009279018596576,-2.009279018596576,3,3,P13,T0
+P13_T1,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,-0.20444521384114855,0.20444521384114855,3,3,P13,T1
+P13_T6,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,0.5373295556877491,-0.5373295556877491,3,3,P13,T6
+P14_T0,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,-0.7820740617616061,0.7820740617616061,3,3,P14,T0
+P14_T1,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,-0.8567342460700399,0.8567342460700399,3,3,P14,T1
+P14_T6,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,0.19809992509851526,-0.19809992509851526,3,3,P14,T6
+P16_T0,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,1.5947337970478763,-1.5947337970478763,3,3,P16,T0
+P16_T1,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,-0.5690148952257057,0.5690148952257057,3,3,P16,T1
+P16_T6,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,0.3762004148558464,-0.3762004148558464,3,3,P16,T6
+P19_T0,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,0.8872286981601025,-0.8872286981601025,3,3,P19,T0
+P19_T1,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,-0.5177766041353898,0.5177766041353898,3,3,P19,T1
+P19_T6,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,-1.3511002481453527,1.3511002481453527,3,3,P19,T6
+P23_T0,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,-0.1788360333623431,0.1788360333623431,3,3,P23,T0
+P23_T1,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,0.10975022704601782,-0.10975022704601782,3,3,P23,T1
+P23_T6,blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,-0.6398914100198437,0.6398914100198437,3,3,P23,T6
+P01_T0,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,-0.6247387493358687,-0.6247387493358687,10,10,P01,T0
+P01_T1,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,0.477802913205995,0.477802913205995,10,10,P01,T1
+P01_T6,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,0.6313480268229527,0.6313480268229527,10,10,P01,T6
+P02_T0,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,-1.1258297250970557,-1.1258297250970557,9,10,P02,T0
+P02_T1,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,-0.1023616671959485,-0.1023616671959485,10,10,P02,T1
+P02_T6,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,-0.6113319575802074,-0.6113319575802074,10,10,P02,T6
+P05_T0,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,-0.2697622055351093,-0.2697622055351093,10,10,P05,T0
+P05_T1,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,0.0364285547494587,0.0364285547494587,10,10,P05,T1
+P05_T6,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,-0.08526589236471185,-0.08526589236471185,10,10,P05,T6
+P07_T0,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,-0.6667339619050524,-0.6667339619050524,9,10,P07,T0
+P07_T1,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,0.8870979849761733,0.8870979849761733,10,10,P07,T1
+P07_T6,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,0.9686463447787699,0.9686463447787699,10,10,P07,T6
+P11_T0,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,-1.0486052299768118,-1.0486052299768118,8,10,P11,T0
+P11_T1,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,0.8322557581736107,0.8322557581736107,10,10,P11,T1
+P11_T6,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,-0.23594911082044243,-0.23594911082044243,10,10,P11,T6
+P13_T0,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,-1.0890111867834396,-1.0890111867834396,9,10,P13,T0
+P13_T1,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,0.6316635638569397,0.6316635638569397,10,10,P13,T1
+P13_T6,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,0.6727779291149136,0.6727779291149136,10,10,P13,T6
+P14_T0,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,-0.19203758100722199,-0.19203758100722199,10,10,P14,T0
+P14_T1,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,0.913657622840824,0.913657622840824,10,10,P14,T1
+P14_T6,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,1.2049045902023907,1.2049045902023907,10,10,P14,T6
+P16_T0,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,-0.29469544023860494,-0.29469544023860494,10,10,P16,T0
+P16_T1,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,1.0125965019336793,1.0125965019336793,10,10,P16,T1
+P16_T6,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,0.2700685657289662,0.2700685657289662,10,10,P16,T6
+P19_T0,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,-0.6136204637934546,-0.6136204637934546,10,10,P19,T0
+P19_T1,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,-0.09029416155909377,-0.09029416155909377,10,10,P19,T1
+P19_T6,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,0.25597240351703165,0.25597240351703165,10,10,P19,T6
+P23_T0,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,-1.6749325626708336,-1.6749325626708336,9,10,P23,T0
+P23_T1,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,-0.8953182717938538,-0.8953182717938538,9,10,P23,T1
+P23_T6,epithelial_barrier,Epithelial differentiation and barrier restoration,increase,0.07036379093562439,0.07036379093562439,10,10,P23,T6
+P01_T0,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,-0.9889014734047434,-0.9889014734047434,8,8,P01,T0
+P01_T1,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,0.28326395613006483,0.28326395613006483,8,8,P01,T1
+P01_T6,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,0.3491053994013925,0.3491053994013925,8,8,P01,T6
+P02_T0,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,-1.203034786907867,-1.203034786907867,8,8,P02,T0
+P02_T1,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,-0.27312000394058267,-0.27312000394058267,8,8,P02,T1
+P02_T6,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,-0.16863529131381044,-0.16863529131381044,7,8,P02,T6
+P05_T0,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,-0.3335548947354564,-0.3335548947354564,8,8,P05,T0
+P05_T1,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,-0.2951828633734327,-0.2951828633734327,8,8,P05,T1
+P05_T6,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,0.03957951894031417,0.03957951894031417,8,8,P05,T6
+P07_T0,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,-0.9700793566610164,-0.9700793566610164,8,8,P07,T0
+P07_T1,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,0.46252133542093077,0.46252133542093077,8,8,P07,T1
+P07_T6,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,1.485031200137199,1.485031200137199,8,8,P07,T6
+P11_T0,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,-0.7905458326961361,-0.7905458326961361,8,8,P11,T0
+P11_T1,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,0.21250290915639072,0.21250290915639072,8,8,P11,T1
+P11_T6,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,-0.027408207059482277,-0.027408207059482277,8,8,P11,T6
+P13_T0,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,-0.7036533312466751,-0.7036533312466751,8,8,P13,T0
+P13_T1,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,0.4670637489165494,0.4670637489165494,8,8,P13,T1
+P13_T6,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,0.5652362933606083,0.5652362933606083,8,8,P13,T6
+P14_T0,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,0.2902777925948014,0.2902777925948014,8,8,P14,T0
+P14_T1,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,0.7387783951486238,0.7387783951486238,8,8,P14,T1
+P14_T6,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,0.7217844201469734,0.7217844201469734,8,8,P14,T6
+P16_T0,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,-0.5366199012744094,-0.5366199012744094,8,8,P16,T0
+P16_T1,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,0.9468505101932083,0.9468505101932083,8,8,P16,T1
+P16_T6,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,0.39583870976442664,0.39583870976442664,8,8,P16,T6
+P19_T0,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,-0.7318503270205579,-0.7318503270205579,8,8,P19,T0
+P19_T1,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,-0.27718337870832316,-0.27718337870832316,8,8,P19,T1
+P19_T6,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,0.09533074105152367,0.09533074105152367,8,8,P19,T6
+P23_T0,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,-1.293281459316568,-1.293281459316568,8,8,P23,T0
+P23_T1,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,0.5558741310904953,0.5558741310904953,8,8,P23,T1
+P23_T6,mucosal_defence,Salivary and mucosal antimicrobial defence,increase,0.9629326347913398,0.9629326347913398,8,8,P23,T6
+P01_T0,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,1.3806624681421737,-1.3806624681421737,5,5,P01,T0
+P01_T1,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,0.17773176948296876,-0.17773176948296876,5,5,P01,T1
+P01_T6,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,0.11364173935304811,-0.11364173935304811,5,5,P01,T6
+P02_T0,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,1.3899628105676416,-1.3899628105676416,5,5,P02,T0
+P02_T1,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,0.9404889685864453,-0.9404889685864453,5,5,P02,T1
+P02_T6,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,0.04909786884282301,-0.04909786884282301,5,5,P02,T6
+P05_T0,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,0.9302047411920837,-0.9302047411920837,5,5,P05,T0
+P05_T1,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,0.6771480158756992,-0.6771480158756992,5,5,P05,T1
+P05_T6,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,-0.2824962984204091,0.2824962984204091,5,5,P05,T6
+P07_T0,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,0.44797906571753837,-0.44797906571753837,5,5,P07,T0
+P07_T1,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,0.29342550821482316,-0.29342550821482316,5,5,P07,T1
+P07_T6,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,-0.7994521367700153,0.7994521367700153,5,5,P07,T6
+P11_T0,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,0.7281312085504137,-0.7281312085504137,5,5,P11,T0
+P11_T1,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,-0.22687066711611714,0.22687066711611714,5,5,P11,T1
+P11_T6,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,-0.6955212595890377,0.6955212595890377,5,5,P11,T6
+P13_T0,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,0.29362870215159503,-0.29362870215159503,5,5,P13,T0
+P13_T1,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,-0.8342735025912746,0.8342735025912746,5,5,P13,T1
+P13_T6,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,-1.063469325286517,1.063469325286517,5,5,P13,T6
+P14_T0,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,-0.5103243671196556,0.5103243671196556,5,5,P14,T0
+P14_T1,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,-0.6420597527377322,0.6420597527377322,5,5,P14,T1
+P14_T6,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,-1.7940114788775283,1.7940114788775283,5,5,P14,T6
+P16_T0,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,0.770200190375834,-0.770200190375834,5,5,P16,T0
+P16_T1,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,-0.8835023396716417,0.8835023396716417,5,5,P16,T1
+P16_T6,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,-0.5684281877922717,0.5684281877922717,4,5,P16,T6
+P19_T0,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,0.6593065110307503,-0.6593065110307503,5,5,P19,T0
+P19_T1,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,-1.0244400070022397,1.0244400070022397,5,5,P19,T1
+P19_T6,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,-0.3309688219499731,0.3309688219499731,5,5,P19,T6
+P23_T0,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,0.6433028916897363,-0.6433028916897363,5,5,P23,T0
+P23_T1,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,-0.006886058263084638,0.006886058263084638,5,5,P23,T1
+P23_T6,neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,0.05410610585533941,-0.05410610585533941,5,5,P23,T6
+P01_T0,oxidative_stress,Oxidative stress and redox-response proteins,decrease,1.4166978211500243,-1.4166978211500243,3,3,P01,T0
+P01_T1,oxidative_stress,Oxidative stress and redox-response proteins,decrease,-0.04346320252548619,0.04346320252548619,3,3,P01,T1
+P01_T6,oxidative_stress,Oxidative stress and redox-response proteins,decrease,-0.10135455578983714,0.10135455578983714,3,3,P01,T6
+P02_T0,oxidative_stress,Oxidative stress and redox-response proteins,decrease,1.2744528834540512,-1.2744528834540512,3,3,P02,T0
+P02_T1,oxidative_stress,Oxidative stress and redox-response proteins,decrease,0.4167230908334301,-0.4167230908334301,3,3,P02,T1
+P02_T6,oxidative_stress,Oxidative stress and redox-response proteins,decrease,0.5311070011576088,-0.5311070011576088,3,3,P02,T6
+P05_T0,oxidative_stress,Oxidative stress and redox-response proteins,decrease,-0.33917462556778516,0.33917462556778516,3,3,P05,T0
+P05_T1,oxidative_stress,Oxidative stress and redox-response proteins,decrease,-0.7659312641637152,0.7659312641637152,3,3,P05,T1
+P05_T6,oxidative_stress,Oxidative stress and redox-response proteins,decrease,-1.063240647957768,1.063240647957768,3,3,P05,T6
+P07_T0,oxidative_stress,Oxidative stress and redox-response proteins,decrease,1.0619183819576161,-1.0619183819576161,3,3,P07,T0
+P07_T1,oxidative_stress,Oxidative stress and redox-response proteins,decrease,-0.43802207432607115,0.43802207432607115,3,3,P07,T1
+P07_T6,oxidative_stress,Oxidative stress and redox-response proteins,decrease,-0.7213518852771555,0.7213518852771555,3,3,P07,T6
+P11_T0,oxidative_stress,Oxidative stress and redox-response proteins,decrease,0.7378893908047953,-0.7378893908047953,3,3,P11,T0
+P11_T1,oxidative_stress,Oxidative stress and redox-response proteins,decrease,-1.0266701555161462,1.0266701555161462,3,3,P11,T1
+P11_T6,oxidative_stress,Oxidative stress and redox-response proteins,decrease,-0.3232992522320956,0.3232992522320956,3,3,P11,T6
+P13_T0,oxidative_stress,Oxidative stress and redox-response proteins,decrease,1.3916338298492947,-1.3916338298492947,3,3,P13,T0
+P13_T1,oxidative_stress,Oxidative stress and redox-response proteins,decrease,-0.8177456159708938,0.8177456159708938,3,3,P13,T1
+P13_T6,oxidative_stress,Oxidative stress and redox-response proteins,decrease,-0.04535638598817578,0.04535638598817578,3,3,P13,T6
+P14_T0,oxidative_stress,Oxidative stress and redox-response proteins,decrease,0.1084539564305591,-0.1084539564305591,3,3,P14,T0
+P14_T1,oxidative_stress,Oxidative stress and redox-response proteins,decrease,-0.44225672001840727,0.44225672001840727,3,3,P14,T1
+P14_T6,oxidative_stress,Oxidative stress and redox-response proteins,decrease,-1.0750834196200185,1.0750834196200185,3,3,P14,T6
+P16_T0,oxidative_stress,Oxidative stress and redox-response proteins,decrease,1.008038694399021,-1.008038694399021,3,3,P16,T0
+P16_T1,oxidative_stress,Oxidative stress and redox-response proteins,decrease,-0.5750728367814011,0.5750728367814011,3,3,P16,T1
+P16_T6,oxidative_stress,Oxidative stress and redox-response proteins,decrease,0.12181375120327124,-0.12181375120327124,3,3,P16,T6
+P19_T0,oxidative_stress,Oxidative stress and redox-response proteins,decrease,0.7148188067751106,-0.7148188067751106,3,3,P19,T0
+P19_T1,oxidative_stress,Oxidative stress and redox-response proteins,decrease,-0.5839655396060468,0.5839655396060468,3,3,P19,T1
+P19_T6,oxidative_stress,Oxidative stress and redox-response proteins,decrease,-0.14777896599976467,0.14777896599976467,3,3,P19,T6
+P23_T0,oxidative_stress,Oxidative stress and redox-response proteins,decrease,0.4575808976073965,-0.4575808976073965,3,3,P23,T0
+P23_T1,oxidative_stress,Oxidative stress and redox-response proteins,decrease,-0.4067261392216397,0.4067261392216397,3,3,P23,T1
+P23_T6,oxidative_stress,Oxidative stress and redox-response proteins,decrease,-0.32463521905999443,0.32463521905999443,3,3,P23,T6
+P01_T0,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,0.8735080503201448,-0.8735080503201448,6,6,P01,T0
+P01_T1,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,-0.048756860057738084,0.048756860057738084,6,6,P01,T1
+P01_T6,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,-0.459121100094214,0.459121100094214,6,6,P01,T6
+P02_T0,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,2.090529052772859,-2.090529052772859,6,6,P02,T0
+P02_T1,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,1.2423745051229271,-1.2423745051229271,6,6,P02,T1
+P02_T6,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,0.9374083477160452,-0.9374083477160452,6,6,P02,T6
+P05_T0,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,-0.23808167582826248,0.23808167582826248,6,6,P05,T0
+P05_T1,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,-0.5853833506771076,0.5853833506771076,6,6,P05,T1
+P05_T6,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,-1.7963133886706644,1.7963133886706644,6,6,P05,T6
+P07_T0,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,0.14601749631030833,-0.14601749631030833,6,6,P07,T0
+P07_T1,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,-0.4940883830898904,0.4940883830898904,6,6,P07,T1
+P07_T6,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,-1.1383655663102463,1.1383655663102463,6,6,P07,T6
+P11_T0,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,0.7881965314087571,-0.7881965314087571,6,6,P11,T0
+P11_T1,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,-0.5631352884105598,0.5631352884105598,6,6,P11,T1
+P11_T6,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,0.08313728984943897,-0.08313728984943897,6,6,P11,T6
+P13_T0,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,0.27200789528072084,-0.27200789528072084,6,6,P13,T0
+P13_T1,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,-0.8158773278818092,0.8158773278818092,6,6,P13,T1
+P13_T6,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,-0.5686168388621322,0.5686168388621322,6,6,P13,T6
+P14_T0,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,0.8330241214052726,-0.8330241214052726,6,6,P14,T0
+P14_T1,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,-0.5573937074831944,0.5573937074831944,6,6,P14,T1
+P14_T6,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,-1.6184478824642943,1.6184478824642943,6,6,P14,T6
+P16_T0,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,0.7801330676045724,-0.7801330676045724,6,6,P16,T0
+P16_T1,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,-1.118120097798362,1.118120097798362,6,6,P16,T1
+P16_T6,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,-0.24797953559944808,0.24797953559944808,6,6,P16,T6
+P19_T0,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,0.9582267409279797,-0.9582267409279797,6,6,P19,T0
+P19_T1,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,-0.17324254190377616,0.17324254190377616,6,6,P19,T1
+P19_T6,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,0.23564422575043276,-0.23564422575043276,6,6,P19,T6
+P23_T0,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,1.270931172833517,-1.270931172833517,6,6,P23,T0
+P23_T1,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,0.4590431348563772,-0.4590431348563772,6,6,P23,T1
+P23_T6,tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,-0.5472580870276601,0.5472580870276601,6,6,P23,T6

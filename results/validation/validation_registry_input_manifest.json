@@ -1,0 +1,10 @@
+{
+  "candidate_panel": "/Users/agnesjuhasz/Documents/periodontitis_saliva_signature_validation/results/integration/cross_cohort_validation/final_candidate_panel.tsv",
+  "protein_annotation": "/Users/agnesjuhasz/Documents/periodontitis_saliva_signature_validation/data/processed/PXD043901/PXD043901_protein_annotation_extended.csv",
+  "longitudinal_responses": [],
+  "module_membership": null,
+  "module_robustness": null,
+  "regulatory_edges": "/Users/agnesjuhasz/Documents/periodontitis_saliva_signature_validation/results/integration/regulatory_network/regulatory_edges_high_confidence.tsv",
+  "pathway_enrichment": "/Users/agnesjuhasz/Documents/periodontitis_saliva_signature_validation/results/integration/pathway_enrichment/tables/significant_pathway_enrichment_results.tsv",
+  "measurable_universe": "/Users/agnesjuhasz/Documents/periodontitis_saliva_signature_validation/results/integration/gene_sets/enrichment_universe_mapping.tsv"
+}

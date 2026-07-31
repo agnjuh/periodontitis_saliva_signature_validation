@@ -1,0 +1,989 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d19" for="edge" attr.name="biological_module" attr.type="string" />
+  <key id="d18" for="edge" attr.name="interpretation_priority" attr.type="string" />
+  <key id="d17" for="edge" attr.name="fold_enrichment" attr.type="double" />
+  <key id="d16" for="edge" attr.name="adjusted_p_value" attr.type="double" />
+  <key id="d15" for="edge" attr.name="gene_set" attr.type="string" />
+  <key id="d14" for="edge" attr.name="pathway_id" attr.type="string" />
+  <key id="d13" for="edge" attr.name="database" attr.type="string" />
+  <key id="d12" for="edge" attr.name="interaction" attr.type="string" />
+  <key id="d11" for="node" attr.name="interpretation_priority" attr.type="string" />
+  <key id="d10" for="node" attr.name="fold_enrichment" attr.type="double" />
+  <key id="d9" for="node" attr.name="adjusted_p_value" attr.type="double" />
+  <key id="d8" for="node" attr.name="gene_set" attr.type="string" />
+  <key id="d7" for="node" attr.name="pathway_id" attr.type="string" />
+  <key id="d6" for="node" attr.name="database" attr.type="string" />
+  <key id="d5" for="node" attr.name="biological_module" attr.type="string" />
+  <key id="d4" for="node" attr.name="is_pathway_member" attr.type="long" />
+  <key id="d3" for="node" attr.name="is_regulatory_target" attr.type="long" />
+  <key id="d2" for="node" attr.name="molecular_entity" attr.type="string" />
+  <key id="d1" for="node" attr.name="node_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="protein:BPIFA2">
+      <data key="d0">BPIFA2</data>
+      <data key="d1">protein</data>
+      <data key="d2">gene_or_protein</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">unassigned</data>
+    </node>
+    <node id="protein:BPIFB1">
+      <data key="d0">BPIFB1</data>
+      <data key="d1">protein</data>
+      <data key="d2">gene_or_protein</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">unassigned</data>
+    </node>
+    <node id="protein:BPIFB2">
+      <data key="d0">BPIFB2</data>
+      <data key="d1">protein</data>
+      <data key="d2">gene_or_protein</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">unassigned</data>
+    </node>
+    <node id="protein:CLU">
+      <data key="d0">CLU</data>
+      <data key="d1">protein</data>
+      <data key="d2">gene_or_protein</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">unassigned</data>
+    </node>
+    <node id="protein:FLNA">
+      <data key="d0">FLNA</data>
+      <data key="d1">protein</data>
+      <data key="d2">gene_or_protein</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">unassigned</data>
+    </node>
+    <node id="protein:LMNB1">
+      <data key="d0">LMNB1</data>
+      <data key="d1">protein</data>
+      <data key="d2">gene_or_protein</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">unassigned</data>
+    </node>
+    <node id="protein:MYH9">
+      <data key="d0">MYH9</data>
+      <data key="d1">protein</data>
+      <data key="d2">gene_or_protein</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">unassigned</data>
+    </node>
+    <node id="protein:PRTN3">
+      <data key="d0">PRTN3</data>
+      <data key="d1">protein</data>
+      <data key="d2">gene_or_protein</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">unassigned</data>
+    </node>
+    <node id="protein:S100A8">
+      <data key="d0">S100A8</data>
+      <data key="d1">protein</data>
+      <data key="d2">gene_or_protein</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">unassigned</data>
+    </node>
+    <node id="protein:S100A9">
+      <data key="d0">S100A9</data>
+      <data key="d1">protein</data>
+      <data key="d2">gene_or_protein</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">unassigned</data>
+    </node>
+    <node id="protein:SPTAN1">
+      <data key="d0">SPTAN1</data>
+      <data key="d1">protein</data>
+      <data key="d2">gene_or_protein</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">unassigned</data>
+    </node>
+    <node id="protein:SPTBN1">
+      <data key="d0">SPTBN1</data>
+      <data key="d1">protein</data>
+      <data key="d2">gene_or_protein</data>
+      <data key="d3">0</data>
+      <data key="d4">1</data>
+      <data key="d5">unassigned</data>
+    </node>
+    <node id="pathway:Reactome_R-HSA-6803157">
+      <data key="d0">Antimicrobial peptides</data>
+      <data key="d1">pathway</data>
+      <data key="d2">functional_pathway</data>
+      <data key="d6">Reactome</data>
+      <data key="d7">R-HSA-6803157</data>
+      <data key="d8">candidate_panel</data>
+      <data key="d9">0.0149195764145212</data>
+      <data key="d10">5.358348968105067</data>
+      <data key="d11">primary</data>
+      <data key="d5">innate_antimicrobial_defence</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+    </node>
+    <node id="pathway:KEGG_hsa04820">
+      <data key="d0">Cytoskeleton in muscle cells</data>
+      <data key="d1">pathway</data>
+      <data key="d2">functional_pathway</data>
+      <data key="d6">KEGG</data>
+      <data key="d7">hsa04820</data>
+      <data key="d8">mir143_linked</data>
+      <data key="d9">0.0021895046447159</data>
+      <data key="d10">11.473684210526317</data>
+      <data key="d11">exploratory</data>
+      <data key="d5">cytoskeleton_cell_architecture</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+    </node>
+    <node id="pathway:Reactome_R-HSA-9662361">
+      <data key="d0">Sensory processing of sound by outer hair cells of the cochlea</data>
+      <data key="d1">pathway</data>
+      <data key="d2">functional_pathway</data>
+      <data key="d6">Reactome</data>
+      <data key="d7">R-HSA-9662361</data>
+      <data key="d8">mir143_linked</data>
+      <data key="d9">0.0047237981783775</data>
+      <data key="d10">29.14285714285714</data>
+      <data key="d11">low_interpretation_priority</data>
+      <data key="d5">shared_structural_annotation</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+    </node>
+    <node id="pathway:Reactome_R-HSA-9662360">
+      <data key="d0">Sensory processing of sound by inner hair cells of the cochlea</data>
+      <data key="d1">pathway</data>
+      <data key="d2">functional_pathway</data>
+      <data key="d6">Reactome</data>
+      <data key="d7">R-HSA-9662360</data>
+      <data key="d8">mir143_linked</data>
+      <data key="d9">0.0047237981783775</data>
+      <data key="d10">22.666666666666664</data>
+      <data key="d11">low_interpretation_priority</data>
+      <data key="d5">shared_structural_annotation</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+    </node>
+    <node id="pathway:Reactome_R-HSA-9659379">
+      <data key="d0">Sensory processing of sound</data>
+      <data key="d1">pathway</data>
+      <data key="d2">functional_pathway</data>
+      <data key="d6">Reactome</data>
+      <data key="d7">R-HSA-9659379</data>
+      <data key="d8">mir143_linked</data>
+      <data key="d9">0.0047237981783775</data>
+      <data key="d10">20.4</data>
+      <data key="d11">low_interpretation_priority</data>
+      <data key="d5">shared_structural_annotation</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+    </node>
+    <node id="pathway:Reactome_R-HSA-194315">
+      <data key="d0">Signaling by Rho GTPases</data>
+      <data key="d1">pathway</data>
+      <data key="d2">functional_pathway</data>
+      <data key="d6">Reactome</data>
+      <data key="d7">R-HSA-194315</data>
+      <data key="d8">mir143_linked</data>
+      <data key="d9">0.0047237981783775</data>
+      <data key="d10">6.415094339622641</data>
+      <data key="d11">exploratory_relevant</data>
+      <data key="d5">cytoskeleton_cell_architecture</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+    </node>
+    <node id="pathway:Reactome_R-HSA-9716542">
+      <data key="d0">Signaling by Rho GTPases, Miro GTPases and RHOBTB3</data>
+      <data key="d1">pathway</data>
+      <data key="d2">functional_pathway</data>
+      <data key="d6">Reactome</data>
+      <data key="d7">R-HSA-9716542</data>
+      <data key="d8">mir143_linked</data>
+      <data key="d9">0.0047237981783775</data>
+      <data key="d10">6.296296296296297</data>
+      <data key="d11">exploratory_relevant</data>
+      <data key="d5">cytoskeleton_cell_architecture</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+    </node>
+    <node id="pathway:Reactome_R-HSA-1500931">
+      <data key="d0">Cell-Cell communication</data>
+      <data key="d1">pathway</data>
+      <data key="d2">functional_pathway</data>
+      <data key="d6">Reactome</data>
+      <data key="d7">R-HSA-1500931</data>
+      <data key="d8">mir143_linked</data>
+      <data key="d9">0.005382274770283</data>
+      <data key="d10">18.545454545454543</data>
+      <data key="d11">exploratory_relevant</data>
+      <data key="d5">cytoskeleton_cell_architecture</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+    </node>
+    <node id="pathway:Reactome_R-HSA-375165">
+      <data key="d0">NCAM signaling for neurite out-growth</data>
+      <data key="d1">pathway</data>
+      <data key="d2">functional_pathway</data>
+      <data key="d6">Reactome</data>
+      <data key="d7">R-HSA-375165</data>
+      <data key="d8">mir143_linked</data>
+      <data key="d9">0.0088455699148252</data>
+      <data key="d10">45.33333333333333</data>
+      <data key="d11">low_interpretation_priority</data>
+      <data key="d5">cytoskeleton_cell_architecture</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+    </node>
+    <node id="pathway:Reactome_R-HSA-373753">
+      <data key="d0">Nephrin family interactions</data>
+      <data key="d1">pathway</data>
+      <data key="d2">functional_pathway</data>
+      <data key="d6">Reactome</data>
+      <data key="d7">R-HSA-373753</data>
+      <data key="d8">mir143_linked</data>
+      <data key="d9">0.0185172848270801</data>
+      <data key="d10">27.2</data>
+      <data key="d11">low_interpretation_priority</data>
+      <data key="d5">cytoskeleton_cell_architecture</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+    </node>
+    <node id="pathway:Reactome_R-HSA-5627123">
+      <data key="d0">RHO GTPases activate PAKs</data>
+      <data key="d1">pathway</data>
+      <data key="d2">functional_pathway</data>
+      <data key="d6">Reactome</data>
+      <data key="d7">R-HSA-5627123</data>
+      <data key="d8">mir143_linked</data>
+      <data key="d9">0.0185172848270801</data>
+      <data key="d10">27.2</data>
+      <data key="d11">exploratory_relevant</data>
+      <data key="d5">cytoskeleton_cell_architecture</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+    </node>
+    <node id="pathway:Reactome_R-HSA-9013420">
+      <data key="d0">RHOU GTPase cycle</data>
+      <data key="d1">pathway</data>
+      <data key="d2">functional_pathway</data>
+      <data key="d6">Reactome</data>
+      <data key="d7">R-HSA-9013420</data>
+      <data key="d8">mir143_linked</data>
+      <data key="d9">0.0185172848270801</data>
+      <data key="d10">27.2</data>
+      <data key="d11">low_interpretation_priority</data>
+      <data key="d5">other_pathway</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+    </node>
+    <node id="pathway:Reactome_R-HSA-9709957">
+      <data key="d0">Sensory Perception</data>
+      <data key="d1">pathway</data>
+      <data key="d2">functional_pathway</data>
+      <data key="d6">Reactome</data>
+      <data key="d7">R-HSA-9709957</data>
+      <data key="d8">mir143_linked</data>
+      <data key="d9">0.0185172848270801</data>
+      <data key="d10">11.333333333333332</data>
+      <data key="d11">low_interpretation_priority</data>
+      <data key="d5">shared_structural_annotation</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+    </node>
+    <node id="pathway:Reactome_R-HSA-9013424">
+      <data key="d0">RHOV GTPase cycle</data>
+      <data key="d1">pathway</data>
+      <data key="d2">functional_pathway</data>
+      <data key="d6">Reactome</data>
+      <data key="d7">R-HSA-9013424</data>
+      <data key="d8">mir143_linked</data>
+      <data key="d9">0.0252935225862931</data>
+      <data key="d10">22.666666666666664</data>
+      <data key="d11">low_interpretation_priority</data>
+      <data key="d5">other_pathway</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+    </node>
+    <node id="pathway:Reactome_R-HSA-162582">
+      <data key="d0">Signal Transduction</data>
+      <data key="d1">pathway</data>
+      <data key="d2">functional_pathway</data>
+      <data key="d6">Reactome</data>
+      <data key="d7">R-HSA-162582</data>
+      <data key="d8">mir143_linked</data>
+      <data key="d9">0.0384456420008742</data>
+      <data key="d10">3.333333333333333</data>
+      <data key="d11">low_interpretation_priority</data>
+      <data key="d5">other_pathway</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+    </node>
+    <node id="pathway:Reactome_R-HSA-9012999">
+      <data key="d0">RHO GTPase cycle</data>
+      <data key="d1">pathway</data>
+      <data key="d2">functional_pathway</data>
+      <data key="d6">Reactome</data>
+      <data key="d7">R-HSA-9012999</data>
+      <data key="d8">mir143_linked</data>
+      <data key="d9">0.0415563551988674</data>
+      <data key="d10">7.285714285714285</data>
+      <data key="d11">exploratory_relevant</data>
+      <data key="d5">cytoskeleton_cell_architecture</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+    </node>
+    <node id="pathway:Reactome_R-HSA-373760">
+      <data key="d0">L1CAM interactions</data>
+      <data key="d1">pathway</data>
+      <data key="d2">functional_pathway</data>
+      <data key="d6">Reactome</data>
+      <data key="d7">R-HSA-373760</data>
+      <data key="d8">mir143_linked</data>
+      <data key="d9">0.0476081164123205</data>
+      <data key="d10">15.111111111111107</data>
+      <data key="d11">low_interpretation_priority</data>
+      <data key="d5">cytoskeleton_cell_architecture</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+    </node>
+    <edge source="protein:BPIFA2" target="pathway:Reactome_R-HSA-6803157" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-6803157</data>
+      <data key="d15">candidate_panel</data>
+      <data key="d16">0.0149195764145212</data>
+      <data key="d17">5.358348968105067</data>
+      <data key="d18">primary</data>
+      <data key="d19">innate_antimicrobial_defence</data>
+    </edge>
+    <edge source="protein:BPIFA2" target="pathway:Reactome_R-HSA-6803157" id="1">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-6803157</data>
+      <data key="d15">nonlinked_candidate</data>
+      <data key="d16">0.0033625949032198</data>
+      <data key="d17">6.276923076923078</data>
+      <data key="d18">primary_supportive</data>
+      <data key="d19">innate_antimicrobial_defence</data>
+    </edge>
+    <edge source="protein:BPIFB1" target="pathway:Reactome_R-HSA-6803157" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-6803157</data>
+      <data key="d15">candidate_panel</data>
+      <data key="d16">0.0149195764145212</data>
+      <data key="d17">5.358348968105067</data>
+      <data key="d18">primary</data>
+      <data key="d19">innate_antimicrobial_defence</data>
+    </edge>
+    <edge source="protein:BPIFB1" target="pathway:Reactome_R-HSA-6803157" id="1">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-6803157</data>
+      <data key="d15">nonlinked_candidate</data>
+      <data key="d16">0.0033625949032198</data>
+      <data key="d17">6.276923076923078</data>
+      <data key="d18">primary_supportive</data>
+      <data key="d19">innate_antimicrobial_defence</data>
+    </edge>
+    <edge source="protein:BPIFB2" target="pathway:Reactome_R-HSA-6803157" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-6803157</data>
+      <data key="d15">candidate_panel</data>
+      <data key="d16">0.0149195764145212</data>
+      <data key="d17">5.358348968105067</data>
+      <data key="d18">primary</data>
+      <data key="d19">innate_antimicrobial_defence</data>
+    </edge>
+    <edge source="protein:BPIFB2" target="pathway:Reactome_R-HSA-6803157" id="1">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-6803157</data>
+      <data key="d15">nonlinked_candidate</data>
+      <data key="d16">0.0033625949032198</data>
+      <data key="d17">6.276923076923078</data>
+      <data key="d18">primary_supportive</data>
+      <data key="d19">innate_antimicrobial_defence</data>
+    </edge>
+    <edge source="protein:CLU" target="pathway:Reactome_R-HSA-6803157" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-6803157</data>
+      <data key="d15">candidate_panel</data>
+      <data key="d16">0.0149195764145212</data>
+      <data key="d17">5.358348968105067</data>
+      <data key="d18">primary</data>
+      <data key="d19">innate_antimicrobial_defence</data>
+    </edge>
+    <edge source="protein:CLU" target="pathway:Reactome_R-HSA-6803157" id="1">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-6803157</data>
+      <data key="d15">nonlinked_candidate</data>
+      <data key="d16">0.0033625949032198</data>
+      <data key="d17">6.276923076923078</data>
+      <data key="d18">primary_supportive</data>
+      <data key="d19">innate_antimicrobial_defence</data>
+    </edge>
+    <edge source="protein:FLNA" target="pathway:Reactome_R-HSA-194315" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-194315</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0047237981783775</data>
+      <data key="d17">6.415094339622641</data>
+      <data key="d18">exploratory_relevant</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:FLNA" target="pathway:Reactome_R-HSA-9716542" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9716542</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0047237981783775</data>
+      <data key="d17">6.296296296296297</data>
+      <data key="d18">exploratory_relevant</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:FLNA" target="pathway:Reactome_R-HSA-1500931" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-1500931</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.005382274770283</data>
+      <data key="d17">18.545454545454543</data>
+      <data key="d18">exploratory_relevant</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:FLNA" target="pathway:Reactome_R-HSA-5627123" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-5627123</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0185172848270801</data>
+      <data key="d17">27.2</data>
+      <data key="d18">exploratory_relevant</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:FLNA" target="pathway:Reactome_R-HSA-162582" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-162582</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0384456420008742</data>
+      <data key="d17">3.333333333333333</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">other_pathway</data>
+    </edge>
+    <edge source="protein:LMNB1" target="pathway:KEGG_hsa04820" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">KEGG</data>
+      <data key="d14">hsa04820</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0021895046447159</data>
+      <data key="d17">11.473684210526317</data>
+      <data key="d18">exploratory</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:LMNB1" target="pathway:Reactome_R-HSA-194315" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-194315</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0047237981783775</data>
+      <data key="d17">6.415094339622641</data>
+      <data key="d18">exploratory_relevant</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:LMNB1" target="pathway:Reactome_R-HSA-9716542" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9716542</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0047237981783775</data>
+      <data key="d17">6.296296296296297</data>
+      <data key="d18">exploratory_relevant</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:LMNB1" target="pathway:Reactome_R-HSA-162582" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-162582</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0384456420008742</data>
+      <data key="d17">3.333333333333333</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">other_pathway</data>
+    </edge>
+    <edge source="protein:LMNB1" target="pathway:Reactome_R-HSA-9012999" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9012999</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0415563551988674</data>
+      <data key="d17">7.285714285714285</data>
+      <data key="d18">exploratory_relevant</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:MYH9" target="pathway:KEGG_hsa04820" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">KEGG</data>
+      <data key="d14">hsa04820</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0021895046447159</data>
+      <data key="d17">11.473684210526317</data>
+      <data key="d18">exploratory</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:MYH9" target="pathway:Reactome_R-HSA-9662361" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9662361</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0047237981783775</data>
+      <data key="d17">29.14285714285714</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">shared_structural_annotation</data>
+    </edge>
+    <edge source="protein:MYH9" target="pathway:Reactome_R-HSA-9662360" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9662360</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0047237981783775</data>
+      <data key="d17">22.666666666666664</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">shared_structural_annotation</data>
+    </edge>
+    <edge source="protein:MYH9" target="pathway:Reactome_R-HSA-9659379" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9659379</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0047237981783775</data>
+      <data key="d17">20.4</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">shared_structural_annotation</data>
+    </edge>
+    <edge source="protein:MYH9" target="pathway:Reactome_R-HSA-194315" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-194315</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0047237981783775</data>
+      <data key="d17">6.415094339622641</data>
+      <data key="d18">exploratory_relevant</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:MYH9" target="pathway:Reactome_R-HSA-9716542" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9716542</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0047237981783775</data>
+      <data key="d17">6.296296296296297</data>
+      <data key="d18">exploratory_relevant</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:MYH9" target="pathway:Reactome_R-HSA-5627123" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-5627123</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0185172848270801</data>
+      <data key="d17">27.2</data>
+      <data key="d18">exploratory_relevant</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:MYH9" target="pathway:Reactome_R-HSA-9709957" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9709957</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0185172848270801</data>
+      <data key="d17">11.333333333333332</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">shared_structural_annotation</data>
+    </edge>
+    <edge source="protein:MYH9" target="pathway:Reactome_R-HSA-162582" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-162582</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0384456420008742</data>
+      <data key="d17">3.333333333333333</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">other_pathway</data>
+    </edge>
+    <edge source="protein:PRTN3" target="pathway:Reactome_R-HSA-6803157" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-6803157</data>
+      <data key="d15">candidate_panel</data>
+      <data key="d16">0.0149195764145212</data>
+      <data key="d17">5.358348968105067</data>
+      <data key="d18">primary</data>
+      <data key="d19">innate_antimicrobial_defence</data>
+    </edge>
+    <edge source="protein:PRTN3" target="pathway:Reactome_R-HSA-6803157" id="1">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-6803157</data>
+      <data key="d15">nonlinked_candidate</data>
+      <data key="d16">0.0033625949032198</data>
+      <data key="d17">6.276923076923078</data>
+      <data key="d18">primary_supportive</data>
+      <data key="d19">innate_antimicrobial_defence</data>
+    </edge>
+    <edge source="protein:S100A8" target="pathway:Reactome_R-HSA-6803157" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-6803157</data>
+      <data key="d15">candidate_panel</data>
+      <data key="d16">0.0149195764145212</data>
+      <data key="d17">5.358348968105067</data>
+      <data key="d18">primary</data>
+      <data key="d19">innate_antimicrobial_defence</data>
+    </edge>
+    <edge source="protein:S100A8" target="pathway:Reactome_R-HSA-6803157" id="1">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-6803157</data>
+      <data key="d15">nonlinked_candidate</data>
+      <data key="d16">0.0033625949032198</data>
+      <data key="d17">6.276923076923078</data>
+      <data key="d18">primary_supportive</data>
+      <data key="d19">innate_antimicrobial_defence</data>
+    </edge>
+    <edge source="protein:S100A9" target="pathway:Reactome_R-HSA-6803157" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-6803157</data>
+      <data key="d15">candidate_panel</data>
+      <data key="d16">0.0149195764145212</data>
+      <data key="d17">5.358348968105067</data>
+      <data key="d18">primary</data>
+      <data key="d19">innate_antimicrobial_defence</data>
+    </edge>
+    <edge source="protein:S100A9" target="pathway:Reactome_R-HSA-6803157" id="1">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-6803157</data>
+      <data key="d15">nonlinked_candidate</data>
+      <data key="d16">0.0033625949032198</data>
+      <data key="d17">6.276923076923078</data>
+      <data key="d18">primary_supportive</data>
+      <data key="d19">innate_antimicrobial_defence</data>
+    </edge>
+    <edge source="protein:SPTAN1" target="pathway:KEGG_hsa04820" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">KEGG</data>
+      <data key="d14">hsa04820</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0021895046447159</data>
+      <data key="d17">11.473684210526317</data>
+      <data key="d18">exploratory</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:SPTAN1" target="pathway:Reactome_R-HSA-9662361" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9662361</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0047237981783775</data>
+      <data key="d17">29.14285714285714</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">shared_structural_annotation</data>
+    </edge>
+    <edge source="protein:SPTAN1" target="pathway:Reactome_R-HSA-9662360" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9662360</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0047237981783775</data>
+      <data key="d17">22.666666666666664</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">shared_structural_annotation</data>
+    </edge>
+    <edge source="protein:SPTAN1" target="pathway:Reactome_R-HSA-9659379" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9659379</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0047237981783775</data>
+      <data key="d17">20.4</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">shared_structural_annotation</data>
+    </edge>
+    <edge source="protein:SPTAN1" target="pathway:Reactome_R-HSA-194315" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-194315</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0047237981783775</data>
+      <data key="d17">6.415094339622641</data>
+      <data key="d18">exploratory_relevant</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:SPTAN1" target="pathway:Reactome_R-HSA-9716542" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9716542</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0047237981783775</data>
+      <data key="d17">6.296296296296297</data>
+      <data key="d18">exploratory_relevant</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:SPTAN1" target="pathway:Reactome_R-HSA-1500931" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-1500931</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.005382274770283</data>
+      <data key="d17">18.545454545454543</data>
+      <data key="d18">exploratory_relevant</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:SPTAN1" target="pathway:Reactome_R-HSA-375165" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-375165</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0088455699148252</data>
+      <data key="d17">45.33333333333333</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:SPTAN1" target="pathway:Reactome_R-HSA-373753" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-373753</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0185172848270801</data>
+      <data key="d17">27.2</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:SPTAN1" target="pathway:Reactome_R-HSA-9013420" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9013420</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0185172848270801</data>
+      <data key="d17">27.2</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">other_pathway</data>
+    </edge>
+    <edge source="protein:SPTAN1" target="pathway:Reactome_R-HSA-9709957" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9709957</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0185172848270801</data>
+      <data key="d17">11.333333333333332</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">shared_structural_annotation</data>
+    </edge>
+    <edge source="protein:SPTAN1" target="pathway:Reactome_R-HSA-9013424" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9013424</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0252935225862931</data>
+      <data key="d17">22.666666666666664</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">other_pathway</data>
+    </edge>
+    <edge source="protein:SPTAN1" target="pathway:Reactome_R-HSA-162582" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-162582</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0384456420008742</data>
+      <data key="d17">3.333333333333333</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">other_pathway</data>
+    </edge>
+    <edge source="protein:SPTAN1" target="pathway:Reactome_R-HSA-9012999" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9012999</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0415563551988674</data>
+      <data key="d17">7.285714285714285</data>
+      <data key="d18">exploratory_relevant</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:SPTAN1" target="pathway:Reactome_R-HSA-373760" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-373760</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0476081164123205</data>
+      <data key="d17">15.111111111111107</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:SPTBN1" target="pathway:KEGG_hsa04820" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">KEGG</data>
+      <data key="d14">hsa04820</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0021895046447159</data>
+      <data key="d17">11.473684210526317</data>
+      <data key="d18">exploratory</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:SPTBN1" target="pathway:Reactome_R-HSA-9662361" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9662361</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0047237981783775</data>
+      <data key="d17">29.14285714285714</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">shared_structural_annotation</data>
+    </edge>
+    <edge source="protein:SPTBN1" target="pathway:Reactome_R-HSA-9662360" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9662360</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0047237981783775</data>
+      <data key="d17">22.666666666666664</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">shared_structural_annotation</data>
+    </edge>
+    <edge source="protein:SPTBN1" target="pathway:Reactome_R-HSA-9659379" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9659379</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0047237981783775</data>
+      <data key="d17">20.4</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">shared_structural_annotation</data>
+    </edge>
+    <edge source="protein:SPTBN1" target="pathway:Reactome_R-HSA-194315" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-194315</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0047237981783775</data>
+      <data key="d17">6.415094339622641</data>
+      <data key="d18">exploratory_relevant</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:SPTBN1" target="pathway:Reactome_R-HSA-9716542" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9716542</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0047237981783775</data>
+      <data key="d17">6.296296296296297</data>
+      <data key="d18">exploratory_relevant</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:SPTBN1" target="pathway:Reactome_R-HSA-1500931" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-1500931</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.005382274770283</data>
+      <data key="d17">18.545454545454543</data>
+      <data key="d18">exploratory_relevant</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:SPTBN1" target="pathway:Reactome_R-HSA-375165" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-375165</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0088455699148252</data>
+      <data key="d17">45.33333333333333</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:SPTBN1" target="pathway:Reactome_R-HSA-373753" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-373753</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0185172848270801</data>
+      <data key="d17">27.2</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:SPTBN1" target="pathway:Reactome_R-HSA-9013420" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9013420</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0185172848270801</data>
+      <data key="d17">27.2</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">other_pathway</data>
+    </edge>
+    <edge source="protein:SPTBN1" target="pathway:Reactome_R-HSA-9709957" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9709957</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0185172848270801</data>
+      <data key="d17">11.333333333333332</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">shared_structural_annotation</data>
+    </edge>
+    <edge source="protein:SPTBN1" target="pathway:Reactome_R-HSA-9013424" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9013424</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0252935225862931</data>
+      <data key="d17">22.666666666666664</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">other_pathway</data>
+    </edge>
+    <edge source="protein:SPTBN1" target="pathway:Reactome_R-HSA-162582" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-162582</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0384456420008742</data>
+      <data key="d17">3.333333333333333</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">other_pathway</data>
+    </edge>
+    <edge source="protein:SPTBN1" target="pathway:Reactome_R-HSA-9012999" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-9012999</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0415563551988674</data>
+      <data key="d17">7.285714285714285</data>
+      <data key="d18">exploratory_relevant</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+    <edge source="protein:SPTBN1" target="pathway:Reactome_R-HSA-373760" id="0">
+      <data key="d12">member_of_pathway</data>
+      <data key="d13">Reactome</data>
+      <data key="d14">R-HSA-373760</data>
+      <data key="d15">mir143_linked</data>
+      <data key="d16">0.0476081164123205</data>
+      <data key="d17">15.111111111111107</data>
+      <data key="d18">low_interpretation_priority</data>
+      <data key="d19">cytoskeleton_cell_architecture</data>
+    </edge>
+  </graph>
+</graphml>

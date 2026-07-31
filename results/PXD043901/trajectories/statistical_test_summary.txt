@@ -1,0 +1,11 @@
+T1_vs_T0
+  Human protein groups tested: 488
+  Wilcoxon FDR < 0.05: 0
+  Wilcoxon FDR < 0.10: 88
+  Stringent reproducible responses: 62
+
+T6_vs_T0
+  Human protein groups tested: 488
+  Wilcoxon FDR < 0.05: 51
+  Wilcoxon FDR < 0.10: 126
+  Stringent reproducible responses: 92

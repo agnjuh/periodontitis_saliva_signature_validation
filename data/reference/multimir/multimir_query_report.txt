@@ -1,0 +1,23 @@
+multiMiR validated-target query
+===============================
+
+Query miRNA: hsa-miR-143-3p
+Query table: validated
+multiMiR package version: 1.28.0
+Raw source records: 2820
+Standardised source records: 2817
+Unique validated interactions: 2388
+Unique target genes: 2388
+
+Evidence policy:
+  - Only records returned from the multiMiR validated table are retained.
+  - Predicted interactions are not queried.
+  - Database, experiment, support-type, and publication fields are retained.
+  - Repeated miRNA-target records are aggregated without discarding source evidence.
+  - Evidence-strength labels are conservative derived annotations.
+
+Output files:
+  data/reference/multimir/multimir_standardised_source_records.tsv
+  data/reference/multimir/multimir_validated_targets.tsv
+  data/reference/multimir/multimir_query_summary.tsv
+

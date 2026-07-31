@@ -1,0 +1,48 @@
+Figure X. Integrated validation framework for longitudinal saliva biomarker
+prioritisation.
+
+(A) Distribution of repository-derived longitudinal protein trajectory
+classes identified from paired analyses of the discovery cohort.
+The analysis included
+488 human proteins,
+of which
+201
+showed robust longitudinal responses,
+112
+fulfilled stringent statistical criteria,
+and
+55
+displayed persistent responses across time.
+
+(B) Module-level longitudinal responses summarising median paired
+changes between baseline and post-treatment measurements.
+
+(C) Leave-one-protein-out robustness analysis demonstrating that
+module behaviour remained stable following systematic removal of
+individual proteins.
+
+(D) Cross-cohort evidence integration summarising
+436
+individual evidence records,
+326
+aggregated biological features,
+and
+79
+final integrated candidates.
+
+(E) Highest-ranked integrated biomarker candidates according to the
+repository-derived aggregated reproducibility score.
+
+(F) Summary of pathway enrichment and regulatory-network support,
+including
+18
+significant biological pathways,
+0
+high-confidence regulatory interactions,
+and
+7
+candidate proteins with validated regulatory evidence.
+
+All values shown originate directly from repository-derived analyses.
+No external quantitative values or manually generated estimates were
+introduced during figure generation.

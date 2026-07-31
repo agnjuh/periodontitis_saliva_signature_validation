@@ -1,0 +1,31 @@
+Proteomic enrichment-universe report
+====================================
+
+Protein annotation: data/processed/PXD043901/PXD043901_protein_annotation_extended.csv
+Candidate gene list: results/integration/gene_sets/candidate_panel_genes.txt
+Included organism origins: human, mixed
+
+Input annotation rows: 508
+Origin-eligible rows: 488
+Eligible rows without a gene symbol: 6
+Mapped protein-gene records: 482
+Unique enrichment-universe genes: 482
+
+Candidate-panel genes: 51
+Candidate genes represented in universe: 51
+Candidate genes missing from universe: 0
+Candidate-panel coverage fraction: 1.0000
+
+Unique genes by annotation origin:
+  human: 482
+  mixed: 0
+
+Candidate genes missing from the universe:
+  None
+
+Interpretation policy:
+  The enrichment universe represents human genes measurable after the proteomic filtering workflow.
+  Human and mixed protein groups are retained only when a human gene symbol is available.
+  Microbiome-only protein groups are excluded from human pathway enrichment.
+  Candidate foreground sets must be subsets of this background universe.
+  This background is preferable to the complete human genome because it accounts for proteomic measurement and filtering constraints.

@@ -1,0 +1,66 @@
+from pathlib import Path
+
+shell.executable("/bin/bash")
+shell.prefix("set -euo pipefail; ")
+
+include: "paths.smk"
+include: "rules/screening.smk"
+include: "rules/pxd043901_proteomics.smk"
+include: "rules/pxd043901_modules.smk"
+include: "rules/gse312585.smk"
+include: "rules/validation.smk"
+include: "rules/reporting.smk"
+
+rule all:
+    input:
+        # Dataset screening
+        DATASET_PRIORITISATION,
+        DATASET_SCREENING_SUMMARY,
+
+        # PXD043901 core outputs
+        RAW_DOWNLOAD_MARKER,
+        METADATA,
+        METADATA_CLEAN,
+        LFQ_RAW,
+        LFQ_LOG2,
+        PROTEIN_ANNOTATION,
+        PROTEIN_ANNOTATION_EXTENDED,
+        MATRIX_SUMMARY,
+        ORGANISM_SUMMARY,
+        QC_SUMMARY,
+        DELTA_T1,
+        DELTA_T6,
+        PROTEIN_RESPONSE_SUMMARY,
+        ROBUST_PRELIMINARY,
+        LONGITUDINAL_TESTS,
+        STRINGENT_RESPONSES,
+        RANKED_RESPONSES,
+        STATISTICAL_TEST_SUMMARY,
+        TRAJECTORY_CLASSES,
+        PERSISTENT_RESPONSES,
+        TRAJECTORY_COUNTS,
+        TRAJECTORY_SUMMARY,
+
+        # Module outputs
+        MODULE_SCORES,
+        MODULE_COVERAGE,
+        MODULE_PATIENT_DELTAS,
+        MODULE_STATISTICS,
+        MODULE_SUMMARY,
+        MODULE_LOO_RESULTS,
+        MODULE_LOO_SUMMARY,
+        MODULE_DELTA_CORRELATIONS,
+        MODULE_HIGH_CORRELATIONS,
+        MODULE_SENSITIVITY_SUMMARY,
+
+        # GSE312585 representative final outputs
+        GSE_RAW_COUNT_MATRIX,
+        GSE_MIRNA_LOG2_CPM,
+        GSE_PCA_COORDINATES,
+        GSE_ALL_PAIRED_EFFECTS,
+        GSE_CONSENSUS_SIGNATURE,
+        GSE_FEATURE_CLASSIFICATION,
+        GSE_SUMMARY_COORDINATES,
+        GSE_SUMMARY_PNG,
+        GSE_SUMMARY_PDF,
+        GSE_FIGURE_LEGEND

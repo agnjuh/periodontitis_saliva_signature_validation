@@ -1,0 +1,484 @@
+SYMBOL	ENTREZID	GENENAME
+A1BG	1	alpha-1-B glycoprotein
+A2M	2	alpha-2-macroglobulin
+A2ML1	144568	alpha-2-macroglobulin like 1
+ACTA1	58	actin alpha 1, skeletal muscle
+ACTL6A	86	actin like 6A
+ACTN1	87	actinin alpha 1
+ACTN4	81	actinin alpha 4
+ACTR2	10097	actin related protein 2
+ACTR3	10096	actin related protein 3
+ADIRF	10974	adipogenesis regulatory factor
+ADSS	NA	NA
+AFM	173	afamin
+AGT	183	angiotensinogen
+AHCY	191	adenosylhomocysteinase
+AHNAK	79026	AHNAK nucleoprotein
+AHSG	197	alpha 2-HS glycoprotein
+AK2	204	adenylate kinase 2
+AKR1A1	10327	aldo-keto reductase family 1 member A1
+AKR1B10	57016	aldo-keto reductase family 1 member B10
+ALDH1A1	216	aldehyde dehydrogenase 1 family member A1
+ALDH3A1	218	aldehyde dehydrogenase 3 family member A1
+ALDOA	226	aldolase, fructose-bisphosphate A
+ALDOC	230	aldolase, fructose-bisphosphate C
+AMY1A	276	amylase alpha 1A
+ANP32A	8125	acidic nuclear phosphoprotein 32 family member A
+ANPEP	290	alanyl aminopeptidase, membrane
+ANXA1	301	annexin A1
+ANXA2	302	annexin A2
+ANXA3	306	annexin A3
+ANXA6	309	annexin A6
+AP1B1	162	adaptor related protein complex 1 subunit beta 1
+APEH	327	acylaminoacyl-peptide hydrolase
+APEX1	328	apurinic/apyrimidinic endodeoxyribonuclease 1
+APOA1	335	apolipoprotein A1
+APOA4	337	apolipoprotein A4
+APOB	338	apolipoprotein B
+APOE	348	apolipoprotein E
+ARCN1	372	archain 1
+ARF1	375	ARF GTPase 1
+ARG1	383	arginase 1
+ARHGAP1	392	Rho GTPase activating protein 1
+ARHGDIA	396	Rho GDP dissociation inhibitor alpha
+ARHGDIB	397	Rho GDP dissociation inhibitor beta
+ARPC1B	10095	actin related protein 2/3 complex subunit 1B
+ARPC2	10109	actin related protein 2/3 complex subunit 2
+ARPC3	10094	actin related protein 2/3 complex subunit 3
+ARPC4	10093	actin related protein 2/3 complex subunit 4
+ARPC5	10092	actin related protein 2/3 complex subunit 5
+ASAH1	427	N-acylsphingosine amidohydrolase 1
+ATIC	471	5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase
+ATP5A1	NA	NA
+ATP5B	NA	NA
+ATP6V1A	523	ATPase H+ transporting V1 subunit A
+AZGP1	563	alpha-2-glycoprotein 1, zinc-binding
+B2M	567	beta-2-microglobulin
+B4GALT1	2683	beta-1,4-galactosyltransferase 1
+BASP1	10409	brain abundant membrane attached signal protein 1
+BLMH	642	bleomycin hydrolase
+BLVRB	645	biliverdin reductase B
+BPGM	669	bisphosphoglycerate mutase
+BPI	671	bactericidal permeability increasing protein
+BPIFA2	140683	BPI fold containing family A member 2
+BPIFB1	92747	BPI fold containing family B member 1
+BPIFB2	80341	BPI fold containing family B member 2
+BST1	683	bone marrow stromal cell antigen 1
+C1R	715	complement C1r
+C1S	716	complement C1s
+C2	717	complement C2
+C3	718	complement C3
+C4B	721	complement C4B (Chido/Rodgers blood group)
+C5	727	complement C5
+C6	729	complement C6
+C7	730	complement C7
+C8A	731	complement C8 alpha chain
+C9	735	complement C9
+CA1	759	carbonic anhydrase 1
+CA2	760	carbonic anhydrase 2
+CA6	765	carbonic anhydrase 6
+CAB39	51719	calcium binding protein 39
+CALM1	801	calmodulin 1
+CALML3	810	calmodulin like 3
+CALML5	51806	calmodulin like 5
+CALR	811	calreticulin
+CALU	813	calumenin
+CAMP	820	cathelicidin antimicrobial peptide
+CANT1	124583	calcium activated nucleotidase 1
+CANX	821	calnexin
+CAP1	10487	cyclase associated actin cytoskeleton regulatory protein 1
+CAPG	822	capping actin protein, gelsolin like
+CAPN1	823	calpain 1
+CAPNS1	826	calpain small subunit 1
+CAPZA1	829	capping actin protein of muscle Z-line subunit alpha 1
+CAPZA2	830	capping actin protein of muscle Z-line subunit alpha 2
+CAPZB	832	capping actin protein of muscle Z-line subunit beta
+CASP14	23581	caspase 14
+CAST	831	calpastatin
+CAT	847	catalase
+CBR1	873	carbonyl reductase 1
+CCT2	10576	chaperonin containing TCP1 subunit 2
+CDC42	998	cell division cycle 42
+CDH1	999	cadherin 1
+CEACAM5	1048	CEA cell adhesion molecule 5
+CEACAM6	4680	CEA cell adhesion molecule 6
+CEACAM8	1088	CEA cell adhesion molecule 8
+CES2	8824	carboxylesterase 2
+CFB	629	complement factor B
+CFH	3075	complement factor H
+CFI	3426	complement factor I
+CFL1	1072	cofilin 1
+CHI3L1	1116	chitinase 3 like 1
+CHI3L2	1117	chitinase 3 like 2
+CHIT1	1118	chitinase 1
+CLC	1178	Charcot-Leyden crystal galectin
+CLCA4	22802	chloride channel accessory 4
+CLIC1	1192	chloride intracellular channel 1
+CLTC	1213	clathrin heavy chain
+CLU	1191	clusterin
+CNN2	1265	calponin 2
+CORO1A	11151	coronin 1A
+COTL1	23406	coactosin like F-actin binding protein 1
+CP	1356	ceruloplasmin
+CPE	1363	carboxypeptidase E
+CPPED1	55313	calcineurin like phosphoesterase domain containing 1
+CRISP3	10321	cysteine rich secretory protein 3
+CRNN	49860	cornulin
+CS	1431	citrate synthase
+CST1	1469	cystatin SN
+CST2	1470	cystatin SA
+CST3	1471	cystatin C
+CST4	1472	cystatin S
+CST5	1473	cystatin D
+CSTA	1475	cystatin A
+CSTB	1476	cystatin B
+CTBS	1486	chitobiase
+CTSC	1075	cathepsin C
+CTSD	1509	cathepsin D
+CTSG	1511	cathepsin G
+CTSL	1514	cathepsin L
+CTSS	1520	cathepsin S
+CTSZ	1522	cathepsin Z
+DBI	1622	diazepam binding inhibitor, acyl-CoA binding protein
+DBNL	28988	drebrin like
+DDT	1652	D-dopachrome tautomerase
+DMBT1	1755	deleted in malignant brain tumors 1
+DPP3	10072	dipeptidyl peptidase 3
+DPP4	1803	dipeptidyl peptidase 4
+DSC2	1824	desmocollin 2
+DSG1	1828	desmoglein 1
+DSG3	1830	desmoglein 3
+DSP	1832	desmoplakin
+DYSF	8291	dysferlin
+ECM1	1893	extracellular matrix protein 1
+EEF1A1P5	158078	eukaryotic translation elongation factor 1 alpha 1 pseudogene 5
+EEF1D	1936	eukaryotic translation elongation factor 1 delta
+EEF1G	1937	eukaryotic translation elongation factor 1 gamma
+EFHD2	79180	EF-hand domain family member D2
+EHD1	10938	EH domain containing 1
+ENDOU	8909	endonuclease, poly(U) specific
+ENO1	2023	enolase 1
+ENOPH1	58478	enolase-phosphatase 1
+ERH	2079	ERH mRNA splicing and mitosis factor
+ERO1A	30001	endoplasmic reticulum oxidoreductase 1 alpha
+EVPL	2125	envoplakin
+EZR	7430	ezrin
+FABP5	2171	fatty acid binding protein 5
+FAM3D	131177	FAM3 metabolism regulating signaling molecule D
+FAM49B	NA	NA
+FCGBP	8857	Fc gamma binding protein
+FERMT3	83706	FERM domain containing kindlin 3
+FGA	2243	fibrinogen alpha chain
+FGB	2244	fibrinogen beta chain
+FGG	2266	fibrinogen gamma chain
+FKBP1A	2280	FKBP prolyl isomerase 1A
+FKBP4	2288	FKBP prolyl isomerase 4
+FLNA	2316	filamin A
+FN1	2335	fibronectin 1
+FUCA1	2517	alpha-L-fucosidase 1
+FURIN	5045	furin, paired basic amino acid cleaving enzyme
+G6PD	2539	glucose-6-phosphate dehydrogenase
+GANAB	23193	glucosidase II alpha subunit
+GAPDH	2597	glyceraldehyde-3-phosphate dehydrogenase
+GC	2638	GC vitamin D binding protein
+GCA	25801	grancalcin
+GDI1	2664	GDP dissociation inhibitor 1
+GDI2	2665	GDP dissociation inhibitor 2
+GGCT	79017	gamma-glutamylcyclotransferase
+GGH	8836	gamma-glutamyl hydrolase
+GLO1	2739	glyoxalase I
+GLOD4	51031	glyoxalase domain containing 4
+GLTP	51228	glycolipid transfer protein
+GMFG	9535	glia maturation factor gamma
+GNAI2	2771	G protein subunit alpha i2
+GNB1	2782	G protein subunit beta 1
+GNB2	2783	G protein subunit beta 2
+GNPDA1	10007	glucosamine-6-phosphate deaminase 1
+GNS	2799	glucosamine (N-acetyl)-6-sulfatase
+GOLM1	51280	golgi membrane protein 1
+GOT1	2805	glutamic-oxaloacetic transaminase 1
+GPI	2821	glucose-6-phosphate isomerase
+GSN	2934	gelsolin
+GSR	2936	glutathione-disulfide reductase
+GSS	2937	glutathione synthetase
+GSTO1	9446	glutathione S-transferase omega 1
+GSTP1	2950	glutathione S-transferase pi 1
+GYG1	2992	glycogenin 1
+H2AFY	NA	NA
+HBD	100187828	hypophosphatemic bone disease
+HBD	3045	hemoglobin subunit delta
+HCLS1	3059	hematopoietic cell-specific Lyn substrate 1
+HEBP2	23593	heme binding protein 2
+HEXA	3073	hexosaminidase subunit alpha
+HEXB	3074	hexosaminidase subunit beta
+HINT1	3094	histidine triad nucleotide binding protein 1
+HIST1H4A	NA	NA
+HK3	3101	hexokinase 3
+HMGB2	3148	high mobility group box 2
+HNRNPA1	3178	heterogeneous nuclear ribonucleoprotein A1
+HNRNPA2B1	3181	heterogeneous nuclear ribonucleoprotein A2/B1
+HNRNPD	3184	heterogeneous nuclear ribonucleoprotein D
+HNRNPK	3190	heterogeneous nuclear ribonucleoprotein K
+HNRNPL	3191	heterogeneous nuclear ribonucleoprotein L
+HP	3240	haptoglobin
+HPRT1	3251	hypoxanthine phosphoribosyltransferase 1
+HPX	3263	hemopexin
+HRG	3273	histidine rich glycoprotein
+HSP90AA1	3320	heat shock protein 90 alpha family class A member 1
+HSP90AB1	3326	heat shock protein 90 alpha family class B member 1
+HSP90B1	7184	heat shock protein 90 beta family member 1
+HSPA1B	3304	heat shock protein family A (Hsp70) member 1B
+HSPA4	3308	heat shock protein family A (Hsp70) member 4
+HSPA5	3309	heat shock protein family A (Hsp70) member 5
+HSPA8	3312	heat shock protein family A (Hsp70) member 8
+HSPB1	3315	heat shock protein family B (small) member 1
+HSPD1	3329	heat shock protein family D (Hsp60) member 1
+IDH1	3417	isocitrate dehydrogenase (NADP(+)) 1
+IGHA1	3493	immunoglobulin heavy constant alpha 1
+IGHA2	3494	immunoglobulin heavy constant alpha 2 (A2m marker)
+IGHG1	3500	immunoglobulin heavy constant gamma 1 (G1m marker)
+IGHG2	3501	immunoglobulin heavy constant gamma 2 (G2m marker)
+IGHG3	3502	immunoglobulin heavy constant gamma 3 (G3m marker)
+IGHG4	3503	immunoglobulin heavy constant gamma 4 (G4m marker)
+IGHM	3507	immunoglobulin heavy constant mu
+IGKC	3514	immunoglobulin kappa constant
+IGKV1-5	28299	immunoglobulin kappa variable 1-5
+IGLC3	3539	immunoglobulin lambda constant 3 (Kern-Oz+ marker)
+IL1RN	3557	interleukin 1 receptor antagonist
+IL36A	27179	interleukin 36 alpha
+ILF3	3609	interleukin enhancer binding factor 3
+IQGAP1	8826	IQ motif containing GTPase activating protein 1
+ITGAM	3684	integrin subunit alpha M
+ITGB2	3689	integrin subunit beta 2
+ITIH1	3697	inter-alpha-trypsin inhibitor heavy chain 1
+ITIH2	3698	inter-alpha-trypsin inhibitor heavy chain 2
+ITIH4	3700	inter-alpha-trypsin inhibitor heavy chain 4
+IVL	3713	involucrin
+JCHAIN	3512	joining chain of multimeric IgA and IgM
+KLK1	3816	kallikrein 1
+KLK6	5653	kallikrein related peptidase 6
+KNG1	3827	kininogen 1
+LAMTOR5	10542	late endosomal/lysosomal adaptor, MAPK and MTOR activator 5
+LASP1	3927	LIM and SH3 protein 1
+LCN1	3933	lipocalin 1
+LCN2	3934	lipocalin 2
+LCP1	3936	lymphocyte cytosolic protein 1
+LDHA	3939	lactate dehydrogenase A
+LDHB	3945	lactate dehydrogenase B
+LEG1	NA	NA
+LGALS3	3958	galectin 3
+LGALS3BP	3959	galectin 3 binding protein
+LMNA	4000	lamin A/C
+LMNB1	4001	lamin B1
+LPO	4025	lactoperoxidase
+LRG1	116844	leucine rich alpha-2-glycoprotein 1
+LRRFIP1	9208	LRR binding FLII interacting protein 1
+LSM2	57819	LSM2 homolog, U6 small nuclear RNA and mRNA degradation associated
+LSP1	4046	lymphocyte specific protein 1
+LTA4H	4048	leukotriene A4 hydrolase
+LTF	4057	lactotransferrin
+LUM	4060	lumican
+MAN2B1	4125	mannosidase alpha class 2B member 1
+MAPK1	5594	mitogen-activated protein kinase 1
+MAPK14	1432	mitogen-activated protein kinase 14
+MARCKS	4082	myristoylated alanine rich protein kinase C substrate
+MDH1	4190	malate dehydrogenase 1
+MDH2	4191	malate dehydrogenase 2
+ME2	4200	malic enzyme 2
+MIF	4282	macrophage migration inhibitory factor
+MMP8	4317	matrix metallopeptidase 8
+MMP9	4318	matrix metallopeptidase 9
+MNDA	4332	myeloid cell nuclear differentiation antigen
+MPO	4353	myeloperoxidase
+MSN	4478	moesin
+MSRA	4482	methionine sulfoxide reductase A
+MUC5B	727897	mucin 5B, oligomeric mucus/gel-forming
+MUC7	4589	mucin 7, secreted
+MVP	9961	major vault protein
+MYH9	4627	myosin heavy chain 9
+MYL6	4637	myosin light chain 6
+NAGK	55577	N-acetylglucosamine kinase
+NAMPT	10135	nicotinamide phosphoribosyltransferase
+NAPA	8775	NSF attachment protein alpha
+NAPRT	93100	nicotinate phosphoribosyltransferase
+NAXE	128240	NAD(P)HX epimerase
+NCF1	653361	neutrophil cytosolic factor 1
+NCF4	4689	neutrophil cytosolic factor 4
+NIT2	56954	nitrilase family member 2
+NME1	4830	NME/NM23 nucleoside diphosphate kinase 1
+NPEPPS	9520	aminopeptidase puromycin sensitive
+NQO2	4835	N-ribosyldihydronicotinamide:quinone dehydrogenase 2
+NUCB1	4924	nucleobindin 1
+NUCB2	4925	nucleobindin 2
+NUMA1	4926	nuclear mitotic apparatus protein 1
+OLFM4	10562	olfactomedin 4
+OLR1	4973	oxidized low density lipoprotein receptor 1
+ORM1	5004	orosomucoid 1
+ORM2	5005	orosomucoid 2
+P4HB	5034	prolyl 4-hydroxylase subunit beta
+PAM	5066	peptidylglycine alpha-amidating monooxygenase
+PARK7	11315	Parkinsonism associated deglycase
+PCMT1	5110	protein-L-isoaspartate (D-aspartate) O-methyltransferase
+PDCD6IP	10015	programmed cell death 6 interacting protein
+PDIA3	2923	protein disulfide isomerase family A member 3
+PDXK	8566	pyridoxal kinase
+PEBP1	5037	phosphatidylethanolamine binding protein 1
+PFDN6	10471	prefoldin subunit 6
+PGAM1	5223	phosphoglycerate mutase 1
+PGD	5226	phosphogluconate dehydrogenase
+PGK1	5230	phosphoglycerate kinase 1
+PGLS	25796	6-phosphogluconolactonase
+PGM1	5236	phosphoglucomutase 1
+PGM2	55276	phosphoglucomutase 2
+PIGR	5284	polymeric immunoglobulin receptor
+PIP	5304	prolactin induced protein
+PKM	5315	pyruvate kinase M1/2
+PLBD1	79887	phospholipase B domain containing 1
+PLEC	5339	plectin
+PLG	5340	plasminogen
+PLIN3	10226	perilipin 3
+PLS3	5358	plastin 3
+PLTP	5360	phospholipid transfer protein
+PNP	4860	purine nucleoside phosphorylase
+PON1	5444	paraoxonase 1
+PPA1	5464	inorganic pyrophosphatase 1
+PPL	5493	periplakin
+PRB2	653247	proline rich protein BstNI subfamily 2
+PRB4	5545	proline rich protein BstNI subfamily 4
+PRCP	5547	prolylcarboxypeptidase
+PRDX1	5052	peroxiredoxin 1
+PRDX2	7001	peroxiredoxin 2
+PRDX3	10935	peroxiredoxin 3
+PRDX5	25824	peroxiredoxin 5
+PRDX6	9588	peroxiredoxin 6
+PRH1	5554	proline rich protein HaeIII subfamily 1
+PRKCSH	5589	PRKCSH beta subunit of glucosidase II
+PROM1	8842	prominin 1
+PRR27	401137	proline rich 27
+PRSS8	5652	serine protease 8
+PRTN3	5657	proteinase 3
+PSMA2	5683	proteasome 20S subunit alpha 2
+PSMA5	5686	proteasome 20S subunit alpha 5
+PSMA7	5688	proteasome 20S subunit alpha 7
+PSMB1	5689	proteasome 20S subunit beta 1
+PSMB10	5699	proteasome 20S subunit beta 10
+PSMB2	5690	proteasome 20S subunit beta 2
+PSMB3	5691	proteasome 20S subunit beta 3
+PSMB4	5692	proteasome 20S subunit beta 4
+PSMB8	5696	proteasome 20S subunit beta 8
+PSMC3	5702	proteasome 26S subunit, ATPase 3
+PSME1	5720	proteasome activator subunit 1
+PSME2	5721	proteasome activator subunit 2
+PTBP1	5725	polypyrimidine tract binding protein 1
+PTGR1	22949	prostaglandin reductase 1
+PTPN6	5777	protein tyrosine phosphatase non-receptor type 6
+PTX3	5806	pentraxin 3
+PYCARD	29108	PYD and CARD domain containing
+PYGL	5836	glycogen phosphorylase L
+QSOX1	5768	quiescin sulfhydryl oxidase 1
+RAB11B	9230	RAB11B, member RAS oncogene family
+RAB1B	81876	RAB1B, member RAS oncogene family
+RAB21	23011	RAB21, member RAS oncogene family
+RAB2A	5862	RAB2A, member RAS oncogene family
+RAB5C	5878	RAB5C, member RAS oncogene family
+RAB7A	7879	RAB7A, member RAS oncogene family
+RAN	5901	RAN, member RAS oncogene family
+RAP1B	5908	RAP1B, member of RAS oncogene family
+RHOA	387	ras homolog family member A
+RNASE2	6036	ribonuclease A family member 2
+RNASET2	8635	ribonuclease T2
+RNH1	6050	ribonuclease/angiogenin inhibitor 1
+RNPEP	6051	arginyl aminopeptidase
+RPE	6120	ribulose-5-phosphate-3-epimerase
+RPLP2	6181	ribosomal protein lateral stalk subunit P2
+RPSA	3921	ribosomal protein SA
+S100A11	6282	S100 calcium binding protein A11
+S100A12	6283	S100 calcium binding protein A12
+S100A4	6275	S100 calcium binding protein A4
+S100A6	6277	S100 calcium binding protein A6
+S100A7	6278	S100 calcium binding protein A7
+S100A8	6279	S100 calcium binding protein A8
+S100A9	6280	S100 calcium binding protein A9
+S100P	6286	S100 calcium binding protein P
+SBSN	374897	suprabasin
+SDCBP	6386	syndecan binding protein
+SELENBP1	8991	selenium binding protein 1
+SERPINA1	5265	serpin family A member 1
+SERPINA4	5267	serpin family A member 4
+SERPINA6	866	serpin family A member 6
+SERPINA7	6906	serpin family A member 7
+SERPINB1	1992	serpin family B member 1
+SERPINB10	5273	serpin family B member 10
+SERPINB13	5275	serpin family B member 13
+SERPINB3	6317	serpin family B member 3
+SERPINB4	6318	serpin family B member 4
+SERPINB5	5268	serpin family B member 5
+SERPINC1	462	serpin family C member 1
+SERPIND1	3053	serpin family D member 1
+SERPINF1	5176	serpin family F member 1
+SERPINF2	5345	serpin family F member 2
+SERPING1	710	serpin family G member 1
+SFN	2810	stratifin
+SH3BGRL	6451	SH3 domain binding glutamate rich protein like
+SH3BGRL3	83442	SH3 domain binding glutamate rich protein like 3
+SLC4A1	6521	solute carrier family 4 member 1 (Diego blood group)
+SLC9A3R1	NA	NA
+SMR3B	10879	submaxillary gland androgen regulated protein 3B
+SOD2	6648	superoxide dismutase 2
+SPARCL1	8404	SPARC like 1
+SPINK5	11005	serine peptidase inhibitor Kazal type 5
+SPRR3	6707	small proline rich protein 3
+SPTAN1	6709	spectrin alpha, non-erythrocytic 1
+SPTBN1	6711	spectrin beta, non-erythrocytic 1
+STIP1	10963	stress induced phosphoprotein 1
+STX7	8417	syntaxin 7
+TAGLN2	8407	transgelin 2
+TALDO1	6888	transaldolase 1
+TBCA	6902	tubulin folding cofactor A
+TCN1	6947	transcobalamin 1
+TF	7018	transferrin
+TGM3	7053	transglutaminase 3
+TKT	7086	transketolase
+TLN1	7094	talin 1
+TMOD3	29766	tropomodulin 3
+TMPO	7112	thymopoietin
+TMPRSS11D	9407	transmembrane serine protease 11D
+TMSB4X	7114	thymosin beta 4 X-linked
+TPI1	7167	triosephosphate isomerase 1
+TPM3	7170	tropomyosin 3
+TPP1	1200	tripeptidyl peptidase 1
+TPPP3	51673	tubulin polymerization promoting protein family member 3
+TPT1	7178	tumor protein, translationally-controlled 1
+TSN	7247	translin
+TSNAX	7257	translin associated factor X
+TSTA3	NA	NA
+TTR	7276	transthyretin
+TUBB4B	10383	tubulin beta 4B class IVb
+TWF2	11344	twinfilin actin binding protein 2
+TXN	7295	thioredoxin
+TXNDC5	81567	thioredoxin domain containing 5
+TYMP	1890	thymidine phosphorylase
+UBA1	7317	ubiquitin like modifier activating enzyme 1
+UBA52	7311	ubiquitin A-52 residue ribosomal protein fusion product 1
+UBE2N	7334	ubiquitin conjugating enzyme E2 N
+UBQLN1	29979	ubiquilin 1
+UGP2	7360	UDP-glucose pyrophosphorylase 2
+UNC13D	201294	unc-13 homolog D
+VASP	7408	vasodilator stimulated phosphoprotein
+VAT1	10493	vesicle amine transport 1
+VCL	7414	vinculin
+VCP	7415	valosin containing protein
+VIM	7431	vimentin
+VNN2	8875	vanin 2
+VSIG10L	147645	V-set and immunoglobulin domain containing 10 like
+VTN	7448	vitronectin
+WARS	NA	NA
+WDR1	9948	WD repeat domain 1
+XRCC6	2547	X-ray repair cross complementing 6
+YWHAB	7529	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta
+YWHAE	7531	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon
+YWHAG	7532	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma
+YWHAH	7533	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta
+YWHAQ	10971	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta
+YWHAZ	7534	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta
+ZG16B	124220	zymogen granule protein 16B

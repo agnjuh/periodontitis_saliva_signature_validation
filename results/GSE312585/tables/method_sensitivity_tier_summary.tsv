@@ -1,0 +1,5 @@
+method_sensitivity_tier	feature_count	median_robust_contrasts	median_cumulative_robust_effect	maximum_cumulative_robust_effect
+pan_contrast	1	6.0	20.291174010044752	20.291174010044752
+high	18	4.5	9.230018783038052	19.4494704685934
+moderate	50	3.0	4.354012073472568	15.214297216604317
+limited	28	1.0	1.1583576484867608	2.931646801259843

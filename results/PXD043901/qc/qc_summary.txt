@@ -1,0 +1,8 @@
+Samples: 30
+Retained protein groups: 508
+Detected proteins per sample: 391-489
+Median detected proteins per sample: 458.0
+Missing fraction range: 0.0374-0.2303
+Median sample missing fraction: 0.0984
+PC1 explained variance: 20.70%
+PC2 explained variance: 13.41%

@@ -1,0 +1,9 @@
+metric	value
+candidate_protein_nodes	51.0
+validated_interactions_after_alias_normalisation	2386.0
+matched_candidate_proteins	7.0
+unmatched_candidate_proteins	44.0
+candidate_protein_overlap_fraction	0.13725490196078433
+all_validated_regulatory_edges	7.0
+high_confidence_regulatory_edges	0.0
+unique_regulatory_mirnas	1.0

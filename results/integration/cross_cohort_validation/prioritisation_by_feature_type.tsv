@@ -1,0 +1,6 @@
+feature_type	modality	dataset	n_records	n_unique_features	mean_reproducibility_score	median_reproducibility_score	maximum_reproducibility_score	n_high_or_very_high
+mature_miRNA	small_RNA_sequencing	GSE121910	22	22	32.145	28.433	75.0	1
+miRNA_associated_locus	small_RNA_sequencing	GSE312585	94	94	52.858	47.682	100.0	25
+probable_miRNA_host_gene	small_RNA_sequencing	GSE312585	3	3	49.774	52.647	62.354	1
+protein	proteomics	PXD043901	305	201	75.174	73.804	100.0	302
+protein_module	proteomics	PXD043901	12	6	84.817	83.76	95.282	12

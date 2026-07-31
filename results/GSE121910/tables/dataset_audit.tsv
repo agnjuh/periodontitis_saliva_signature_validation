@@ -1,0 +1,3 @@
+table	path	rows	columns	duplicate_complete_rows	total_missing_values
+expression	data/processed/miRNA_expression.tsv	1354	6	922	0
+case_control	data/processed/known_miRNA_case_vs_control.tsv	80	10	0	0

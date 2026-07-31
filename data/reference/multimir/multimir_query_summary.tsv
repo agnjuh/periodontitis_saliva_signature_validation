@@ -1,0 +1,11 @@
+metric	value
+query_mirna	hsa-miR-143-3p
+raw_source_records	2820
+standardised_source_records	2817
+unique_validated_interactions	2388
+unique_target_genes	2388
+represented_databases	3
+strong_interactions	71
+supportive_interactions	2316
+experimentally_supported_unspecified_interactions	1
+unclassified_interactions	0

@@ -1,0 +1,12 @@
+Patients: 10
+Protein groups: 508
+
+T1 versus T0:
+  Median observed pairs per protein: 10.0
+  Proteins observed in all 10 pairs: 270
+
+T6 versus T0:
+  Median observed pairs per protein: 10.0
+  Proteins observed in all 10 pairs: 262
+
+Preliminary robust human responses (>=8 pairs, consistency >=0.75, |median delta| >=0.25): 305

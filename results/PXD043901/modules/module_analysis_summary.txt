@@ -1,0 +1,23 @@
+Module coverage
+                    module  requested_genes  available_genes  coverage_fraction
+         blood_erythrocyte                3                3                1.0
+        epithelial_barrier               10               10                1.0
+           mucosal_defence                8                8                1.0
+   neutrophil_inflammation                5                5                1.0
+          oxidative_stress                3                3                1.0
+tissue_damage_cytoskeleton                6                6                1.0
+
+Longitudinal module statistics
+                    module comparison  n_pairs  n_positive_response  direction_consistency  median_response_delta  wilcoxon_p  wilcoxon_fdr
+          oxidative_stress   T1_vs_T0       10                   10                    1.0               1.379473    0.001953      0.002344
+        epithelial_barrier   T1_vs_T0       10                   10                    1.0               1.104118    0.001953      0.002344
+           mucosal_defence   T1_vs_T0       10                   10                    1.0               1.086883    0.001953      0.002344
+tissue_damage_cytoskeleton   T1_vs_T0       10                   10                    1.0               1.005075    0.001953      0.002344
+   neutrophil_inflammation   T1_vs_T0       10                   10                    1.0               0.802595    0.001953      0.002344
+         blood_erythrocyte   T1_vs_T0       10                    9                    0.9               1.394166    0.005859      0.006392
+   neutrophil_inflammation   T6_vs_T0       10                   10                    1.0               1.275354    0.001953      0.002344
+tissue_damage_cytoskeleton   T6_vs_T0       10                   10                    1.0               1.218752    0.001953      0.002344
+        epithelial_barrier   T6_vs_T0       10                   10                    1.0               1.062840    0.001953      0.002344
+           mucosal_defence   T6_vs_T0       10                   10                    1.0               0.983429    0.001953      0.002344
+          oxidative_stress   T6_vs_T0       10                   10                    1.0               0.973707    0.001953      0.002344
+         blood_erythrocyte   T6_vs_T0       10                    9                    0.9               1.448740    0.009766      0.009766

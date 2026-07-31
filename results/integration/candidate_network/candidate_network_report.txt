@@ -1,0 +1,54 @@
+Candidate network report
+========================
+
+Regulatory edge input: results/integration/biological_network/mirna_target_mapping_template.tsv
+Pathway enrichment input: results/integration/pathway_enrichment/tables/significant_pathway_enrichment_results.tsv
+
+Network dimensions:
+  Nodes: 29
+  Edges: 63
+
+Node composition:
+  pathway: 17
+  protein: 12
+
+Edge composition:
+  member_of_pathway: 63
+
+Biological interpretation:
+  The primary proteomic signal is the Reactome 'Antimicrobial peptides' pathway.
+  The miR-143-linked subset is enriched for overlapping cytoskeletal and Rho-GTPase-related annotations.
+  Cochlear, sensory, neurite, nephrin and related pathway labels are driven by shared structural proteins and should not be interpreted as tissue-specific findings.
+
+Interpretation constraints:
+  miRNA-target edges indicate validated database support.
+  They do not establish functional miRNA regulation in the analysed saliva samples.
+  Pathway enrichment indicates over-representation, not pathway activation, direction or causality.
+  The miR-143-linked set is small and exploratory.
+  The nonlinked candidate set is descriptive and is not an independent control group.
+
+Pathways included:
+  KEGG | mir143_linked | Cytoskeleton in muscle cells | FDR=0.0021895046447159 | fold=11.473684210526317 | priority=exploratory
+  Reactome | mir143_linked | Signaling by Rho GTPases | FDR=0.0047237981783775 | fold=6.415094339622641 | priority=exploratory_relevant
+  Reactome | mir143_linked | Signaling by Rho GTPases, Miro GTPases and RHOBTB3 | FDR=0.0047237981783775 | fold=6.296296296296297 | priority=exploratory_relevant
+  Reactome | mir143_linked | Cell-Cell communication | FDR=0.005382274770283 | fold=18.545454545454543 | priority=exploratory_relevant
+  Reactome | mir143_linked | RHO GTPases activate PAKs | FDR=0.0185172848270801 | fold=27.2 | priority=exploratory_relevant
+  Reactome | mir143_linked | RHO GTPase cycle | FDR=0.0415563551988674 | fold=7.285714285714285 | priority=exploratory_relevant
+  Reactome | mir143_linked | Sensory processing of sound | FDR=0.0047237981783775 | fold=20.4 | priority=low_interpretation_priority
+  Reactome | mir143_linked | Sensory processing of sound by inner hair cells of the cochlea | FDR=0.0047237981783775 | fold=22.666666666666664 | priority=low_interpretation_priority
+  Reactome | mir143_linked | Sensory processing of sound by outer hair cells of the cochlea | FDR=0.0047237981783775 | fold=29.14285714285714 | priority=low_interpretation_priority
+  Reactome | mir143_linked | NCAM signaling for neurite out-growth | FDR=0.0088455699148252 | fold=45.33333333333333 | priority=low_interpretation_priority
+  Reactome | mir143_linked | Nephrin family interactions | FDR=0.0185172848270801 | fold=27.2 | priority=low_interpretation_priority
+  Reactome | mir143_linked | RHOU GTPase cycle | FDR=0.0185172848270801 | fold=27.2 | priority=low_interpretation_priority
+  Reactome | mir143_linked | Sensory Perception | FDR=0.0185172848270801 | fold=11.333333333333332 | priority=low_interpretation_priority
+  Reactome | mir143_linked | RHOV GTPase cycle | FDR=0.0252935225862931 | fold=22.666666666666664 | priority=low_interpretation_priority
+  Reactome | mir143_linked | Signal Transduction | FDR=0.0384456420008742 | fold=3.333333333333333 | priority=low_interpretation_priority
+  Reactome | mir143_linked | L1CAM interactions | FDR=0.0476081164123205 | fold=15.111111111111107 | priority=low_interpretation_priority
+  Reactome | candidate_panel | Antimicrobial peptides | FDR=0.0149195764145212 | fold=5.358348968105067 | priority=primary
+
+Main outputs:
+  candidate_network_nodes.tsv
+  candidate_network_edges.tsv
+  candidate_network.graphml
+  candidate_network.gml
+  candidate_network_summary.tsv

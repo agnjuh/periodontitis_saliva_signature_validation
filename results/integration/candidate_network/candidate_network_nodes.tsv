@@ -1,0 +1,30 @@
+node_id	label	node_type	molecular_entity	is_regulatory_target	is_pathway_member	biological_module	database	pathway_id	gene_set	adjusted_p_value	fold_enrichment	interpretation_priority	degree	in_degree	out_degree
+pathway:Reactome_R-HSA-6803157	Antimicrobial peptides	pathway	functional_pathway	False	False	innate_antimicrobial_defence	Reactome	R-HSA-6803157	candidate_panel	0.0149195764145212	5.358348968105067	primary	14	14	0
+pathway:Reactome_R-HSA-1500931	Cell-Cell communication	pathway	functional_pathway	False	False	cytoskeleton_cell_architecture	Reactome	R-HSA-1500931	mir143_linked	0.005382274770283	18.545454545454543	exploratory_relevant	3	3	0
+pathway:KEGG_hsa04820	Cytoskeleton in muscle cells	pathway	functional_pathway	False	False	cytoskeleton_cell_architecture	KEGG	hsa04820	mir143_linked	0.0021895046447159	11.473684210526317	exploratory	4	4	0
+pathway:Reactome_R-HSA-373760	L1CAM interactions	pathway	functional_pathway	False	False	cytoskeleton_cell_architecture	Reactome	R-HSA-373760	mir143_linked	0.0476081164123205	15.111111111111107	low_interpretation_priority	2	2	0
+pathway:Reactome_R-HSA-375165	NCAM signaling for neurite out-growth	pathway	functional_pathway	False	False	cytoskeleton_cell_architecture	Reactome	R-HSA-375165	mir143_linked	0.0088455699148252	45.33333333333333	low_interpretation_priority	2	2	0
+pathway:Reactome_R-HSA-373753	Nephrin family interactions	pathway	functional_pathway	False	False	cytoskeleton_cell_architecture	Reactome	R-HSA-373753	mir143_linked	0.0185172848270801	27.2	low_interpretation_priority	2	2	0
+pathway:Reactome_R-HSA-9012999	RHO GTPase cycle	pathway	functional_pathway	False	False	cytoskeleton_cell_architecture	Reactome	R-HSA-9012999	mir143_linked	0.0415563551988674	7.285714285714285	exploratory_relevant	3	3	0
+pathway:Reactome_R-HSA-5627123	RHO GTPases activate PAKs	pathway	functional_pathway	False	False	cytoskeleton_cell_architecture	Reactome	R-HSA-5627123	mir143_linked	0.0185172848270801	27.2	exploratory_relevant	2	2	0
+pathway:Reactome_R-HSA-9013420	RHOU GTPase cycle	pathway	functional_pathway	False	False	other_pathway	Reactome	R-HSA-9013420	mir143_linked	0.0185172848270801	27.2	low_interpretation_priority	2	2	0
+pathway:Reactome_R-HSA-9013424	RHOV GTPase cycle	pathway	functional_pathway	False	False	other_pathway	Reactome	R-HSA-9013424	mir143_linked	0.0252935225862931	22.666666666666664	low_interpretation_priority	2	2	0
+pathway:Reactome_R-HSA-9709957	Sensory Perception	pathway	functional_pathway	False	False	shared_structural_annotation	Reactome	R-HSA-9709957	mir143_linked	0.0185172848270801	11.333333333333332	low_interpretation_priority	3	3	0
+pathway:Reactome_R-HSA-9659379	Sensory processing of sound	pathway	functional_pathway	False	False	shared_structural_annotation	Reactome	R-HSA-9659379	mir143_linked	0.0047237981783775	20.4	low_interpretation_priority	3	3	0
+pathway:Reactome_R-HSA-9662360	Sensory processing of sound by inner hair cells of the cochlea	pathway	functional_pathway	False	False	shared_structural_annotation	Reactome	R-HSA-9662360	mir143_linked	0.0047237981783775	22.666666666666664	low_interpretation_priority	3	3	0
+pathway:Reactome_R-HSA-9662361	Sensory processing of sound by outer hair cells of the cochlea	pathway	functional_pathway	False	False	shared_structural_annotation	Reactome	R-HSA-9662361	mir143_linked	0.0047237981783775	29.14285714285714	low_interpretation_priority	3	3	0
+pathway:Reactome_R-HSA-162582	Signal Transduction	pathway	functional_pathway	False	False	other_pathway	Reactome	R-HSA-162582	mir143_linked	0.0384456420008742	3.333333333333333	low_interpretation_priority	5	5	0
+pathway:Reactome_R-HSA-194315	Signaling by Rho GTPases	pathway	functional_pathway	False	False	cytoskeleton_cell_architecture	Reactome	R-HSA-194315	mir143_linked	0.0047237981783775	6.415094339622641	exploratory_relevant	5	5	0
+pathway:Reactome_R-HSA-9716542	Signaling by Rho GTPases, Miro GTPases and RHOBTB3	pathway	functional_pathway	False	False	cytoskeleton_cell_architecture	Reactome	R-HSA-9716542	mir143_linked	0.0047237981783775	6.296296296296297	exploratory_relevant	5	5	0
+protein:BPIFA2	BPIFA2	protein	gene_or_protein	False	True	unassigned							2	0	2
+protein:BPIFB1	BPIFB1	protein	gene_or_protein	False	True	unassigned							2	0	2
+protein:BPIFB2	BPIFB2	protein	gene_or_protein	False	True	unassigned							2	0	2
+protein:CLU	CLU	protein	gene_or_protein	False	True	unassigned							2	0	2
+protein:FLNA	FLNA	protein	gene_or_protein	False	True	unassigned							5	0	5
+protein:LMNB1	LMNB1	protein	gene_or_protein	False	True	unassigned							5	0	5
+protein:MYH9	MYH9	protein	gene_or_protein	False	True	unassigned							9	0	9
+protein:PRTN3	PRTN3	protein	gene_or_protein	False	True	unassigned							2	0	2
+protein:S100A8	S100A8	protein	gene_or_protein	False	True	unassigned							2	0	2
+protein:S100A9	S100A9	protein	gene_or_protein	False	True	unassigned							2	0	2
+protein:SPTAN1	SPTAN1	protein	gene_or_protein	False	True	unassigned							15	0	15
+protein:SPTBN1	SPTBN1	protein	gene_or_protein	False	True	unassigned							15	0	15

@@ -1,0 +1,10 @@
+dataset	study_role	modality	feature_type	evidence_level	n_evidence_records	n_unique_features	n_prioritised	median_absolute_effect	median_direction_consistency
+GSE121910	case_control_biological_signal	small_RNA_sequencing	mature_miRNA	moderate	9	9	9	1.5425897848990793	
+GSE121910	case_control_biological_signal	small_RNA_sequencing	mature_miRNA	strong	13	13	13	3.5577006971835408	
+GSE312585	technical_method_robustness	small_RNA_sequencing	miRNA_associated_locus	moderate	17	17	17	1.5800143248402905	0.9444444444444444
+GSE312585	technical_method_robustness	small_RNA_sequencing	miRNA_associated_locus	strong	1	1	1	3.195376715738722	1.0
+GSE312585	technical_method_robustness	small_RNA_sequencing	miRNA_associated_locus	supportive	76	76	1	0.840324256344273	0.8888888888888888
+GSE312585	technical_method_robustness	small_RNA_sequencing	probable_miRNA_host_gene	supportive	3	3	0	1.2470991990103295	0.8333333333333334
+PXD043901	longitudinal_module_response	proteomics	protein_module	strong	12	6	12	1.0955006721014153	1.0
+PXD043901	longitudinal_treatment_response	proteomics	protein	moderate	198	156	198	0.5029421438450594	0.8
+PXD043901	longitudinal_treatment_response	proteomics	protein	strong	107	79	107	0.8446588586550643	0.9

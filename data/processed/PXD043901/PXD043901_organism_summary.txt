@@ -1,0 +1,10 @@
+Retained protein groups: 508
+
+Origin classification:
+       organism_origin  protein_groups
+                 human             488
+            microbiome              11
+mixed_human_microbiome               9
+
+Human protein groups with gene symbol: 490
+Human protein groups with parsed protein name: 497

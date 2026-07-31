@@ -1,0 +1,13 @@
+Trajectory classes:
+             trajectory_class  protein_groups
+         weak_or_inconsistent             287
+           sustained_decrease              50
+           sustained_increase              42
+                late_decrease              30
+     transient_early_decrease              25
+                late_increase              24
+     transient_early_increase              18
+early_decrease_partial_return              11
+early_increase_partial_return               1
+
+Persistent responses supported at FDR <= 0.10 at both timepoints: 55

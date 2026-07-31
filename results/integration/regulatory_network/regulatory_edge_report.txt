@@ -1,0 +1,33 @@
+Experimentally validated miRNA–protein regulatory edges
+=======================================================
+
+multiMiR input: data/reference/multimir/multimir_validated_targets.tsv
+Node registry input: results/integration/biological_network/network_node_registry.tsv
+
+Candidate protein nodes: 51
+Alias-normalised validated miRNA-target interactions: 2386
+Matched candidate proteins: 7
+Unmatched candidate proteins: 44
+Candidate protein overlap fraction: 0.1373
+All validated regulatory edges: 7
+High-confidence regulatory edges: 0
+
+High-confidence criteria:
+  Minimum supporting databases: 2
+  Minimum supporting publications: 2
+  Strong evidence required: True
+
+Evidence policy:
+  Only experimentally validated multiMiR records were used.
+  Predicted interactions were not included.
+  Gene aliases were conservatively normalised before matching.
+  Multiple source records were aggregated after alias normalisation.
+
+Matched targets:
+  SPTBN1: supportive; 1 database(s); 5 publication(s)
+  FLNA: supportive; 1 database(s); 2 publication(s)
+  B2M: supportive; 1 database(s); 1 publication(s)
+  CHI3L2: supportive; 1 database(s); 1 publication(s)
+  LMNB1: supportive; 1 database(s); 1 publication(s)
+  MYH9: supportive; 1 database(s); 1 publication(s)
+  SPTAN1: supportive; 1 database(s); 1 publication(s)

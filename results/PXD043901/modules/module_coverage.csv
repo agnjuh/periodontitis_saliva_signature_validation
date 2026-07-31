@@ -1,0 +1,7 @@
+module,module_description,expected_treatment_direction,requested_genes,available_genes,coverage_fraction,available_gene_symbols,missing_gene_symbols
+blood_erythrocyte,Erythrocyte and gingival bleeding-associated signal,decrease,3,3,1.0,CA1;HBD;PRDX2,
+epithelial_barrier,Epithelial differentiation and barrier restoration,increase,10,10,1.0,SPRR3;IVL;CRNN;SBSN;DSG3;DSC2;CSTA;SFN;SERPINB3;SERPINB13,
+mucosal_defence,Salivary and mucosal antimicrobial defence,increase,8,8,1.0,BPIFA2;DMBT1;MUC7;PIGR;ZG16B;TCN1;CLU;A2ML1,
+neutrophil_inflammation,Neutrophil-associated inflammatory activity,decrease,5,5,1.0,S100A8;S100A9;S100A12;PRTN3;LSP1,
+oxidative_stress,Oxidative stress and redox-response proteins,decrease,3,3,1.0,CAT;GSR;PRDX2,
+tissue_damage_cytoskeleton,Intracellular structural proteins associated with cellular damage,decrease,6,6,1.0,LMNB1;SPTAN1;SPTBN1;FLNA;BASP1;CAPZB,

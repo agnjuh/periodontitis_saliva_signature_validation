@@ -1,0 +1,13 @@
+{
+  "script": "19_build_final_validation_figure.py",
+  "repository_root": "/Users/agnesjuhasz/Documents/periodontitis_saliva_signature_validation",
+  "output_directory": "/Users/agnesjuhasz/Documents/periodontitis_saliva_signature_validation/results/final_figure",
+  "outputs": {
+    "svg": "/Users/agnesjuhasz/Documents/periodontitis_saliva_signature_validation/results/final_figure/final_validation_framework.svg",
+    "pdf": "/Users/agnesjuhasz/Documents/periodontitis_saliva_signature_validation/results/final_figure/final_validation_framework.pdf",
+    "png": "/Users/agnesjuhasz/Documents/periodontitis_saliva_signature_validation/results/final_figure/final_validation_framework.png",
+    "caption": "/Users/agnesjuhasz/Documents/periodontitis_saliva_signature_validation/results/final_figure/final_validation_framework_caption.txt",
+    "report": "/Users/agnesjuhasz/Documents/periodontitis_saliva_signature_validation/results/final_figure/final_validation_framework_report.txt"
+  },
+  "png_dpi": 450
+}

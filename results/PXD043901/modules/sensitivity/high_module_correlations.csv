@@ -1,0 +1,2 @@
+comparison,module_a,module_b,n_patients,spearman_rho,spearman_p
+T1_vs_T0,epithelial_barrier,oxidative_stress,10,0.8060606060606059,0.004862061101964607

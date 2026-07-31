@@ -1,0 +1,13 @@
+sample_id	gsm_id	donor	method	sample_type
+WS_11113	GSM9349427	11113	WS	whole_saliva
+UC_11113	GSM9349428	11113	UC	extracellular_vesicle
+Q_11113	GSM9349429	11113	Q	extracellular_vesicle
+M_11113	GSM9349430	11113	M	extracellular_vesicle
+WS_12114	GSM9349431	12114	WS	whole_saliva
+UC_12114	GSM9349432	12114	UC	extracellular_vesicle
+Q_12114	GSM9349433	12114	Q	extracellular_vesicle
+M_12114	GSM9349434	12114	M	extracellular_vesicle
+WS_38169	GSM9349435	38169	WS	whole_saliva
+UC_38169	GSM9349436	38169	UC	extracellular_vesicle
+Q_38169	GSM9349437	38169	Q	extracellular_vesicle
+M_38169	GSM9349438	38169	M	extracellular_vesicle

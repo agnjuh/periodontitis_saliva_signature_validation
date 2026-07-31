@@ -1,0 +1,2 @@
+mirna_node_id	mirna_id	mirna_name	mirna_dataset	mirna_candidate_tier	mirna_reproducibility_score	target_gene_symbol	target_protein_node_id	target_protein_detected_in_panel	relationship_type	evidence_database	database_version	evidence_category	experimental_method	publication_id	interaction_direction	curation_status	review_notes
+mature_mirna:mir-143-3p	mir-143-3p	mir-143-3p	GSE121910	high_confidence	75.0			False								not_reviewed	

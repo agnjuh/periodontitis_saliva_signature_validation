@@ -1,0 +1,40 @@
+project:
+  name: periodontitis_saliva_signature_validation
+  random_seed: 42
+
+datasets:
+  discovery:
+    accession: PXD043901
+    design: longitudinal_paired
+    platform: Q_Exactive_HF_X_DDA
+    timepoints:
+      - T0
+      - T1
+      - T6
+    processed_data_dir: data/raw/PXD043901
+    interim_dir: data/interim/PXD043901
+
+  validation:
+    accession: PXD043491
+    design: healthy_untreated_treated
+    platform: TripleTOF_6600_SWATH
+    groups:
+      - H
+      - UP
+      - TP
+    processed_data_dir: data/raw/PXD043491
+    interim_dir: data/interim/PXD043491
+
+analysis:
+  minimum_unique_peptides: 2
+  minimum_sample_fraction: 0.5
+  log_transform: true
+  fdr_threshold: 0.05
+  bootstrap_iterations: 1000
+
+clinical_variables:
+  - PI
+  - GI
+  - PD
+  - BOP
+  - CAL

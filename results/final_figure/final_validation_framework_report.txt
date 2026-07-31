@@ -1,0 +1,48 @@
+FINAL VALIDATION FRAMEWORK REPORT
+======================================================================
+
+LONGITUDINAL ANALYSIS
+----------------------------------------------------------------------
+Human proteins: 488
+Robust proteins: 201
+Persistent proteins: 55
+Median consistency T1: 70%
+Median consistency T6: 75%
+
+MODULE ANALYSIS
+----------------------------------------------------------------------
+Modules: 6
+Robust comparisons: 12
+Median coverage: 100%
+
+Robust across both timepoints:
+  • Blood / erythrocyte
+  • Epithelial barrier
+  • Mucosal defence
+  • Neutrophil inflammation
+  • Oxidative stress
+  • Tissue damage / cytoskeleton
+
+CROSS-COHORT INTEGRATION
+----------------------------------------------------------------------
+Evidence records: 436
+Aggregated features: 326
+Final candidates: 79
+High-confidence candidates: 33
+Median reproducibility score: 85.14
+
+REGULATORY SUPPORT
+----------------------------------------------------------------------
+Validated interactions: 7
+High-confidence interactions: 0
+Matched candidate proteins: 7
+Protein overlap fraction: 14%
+
+PATHWAY ENRICHMENT
+----------------------------------------------------------------------
+Significant pathways: 18
+Network nodes: 29
+Network edges: 63
+
+Primary enriched pathways:
+  • Antimicrobial peptides

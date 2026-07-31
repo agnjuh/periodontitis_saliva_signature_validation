@@ -1,0 +1,11 @@
+metric	value
+input_annotation_rows	508.0
+origin_eligible_rows	488.0
+rows_without_gene_symbol	6.0
+mapped_protein_gene_records	482.0
+unique_universe_genes	482.0
+candidate_panel_genes	51.0
+candidate_genes_missing_from_universe	0.0
+candidate_panel_coverage_fraction	1.0
+unique_genes_with_human_origin	482.0
+unique_genes_with_mixed_origin	0.0

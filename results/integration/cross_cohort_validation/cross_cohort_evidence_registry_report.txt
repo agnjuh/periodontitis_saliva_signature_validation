@@ -1,0 +1,28 @@
+Cross-cohort evidence registry
+==============================
+
+Total evidence records: 436
+Unique feature identifiers: 326
+Datasets represented: 3
+
+Evidence records by dataset:
+  GSE121910: 22
+  GSE312585: 97
+  PXD043901: 317
+
+Evidence records by modality:
+  proteomics: 317
+  small_RNA_sequencing: 119
+
+Evidence levels:
+  strong: 133
+  moderate: 224
+  supportive: 79
+
+Scientific interpretation notes:
+  - Evidence records are harmonised structurally, not treated as biologically interchangeable.
+  - GSE312585 represents technical method sensitivity and should not be interpreted as disease-direction evidence.
+  - GSE121910 is an exploratory case-control signal and does not contain inferential p-values in the source table.
+  - Cross-modality integration should subsequently occur at the target, pathway, or biological-module level.
+
+Summary rows: 9

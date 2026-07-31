@@ -1,0 +1,56 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+
+# Raw and large biological data
+data/raw/PXD043901/*
+data/raw/PXD043491/*
+data/interim/*
+data/processed/*.parquet
+data/processed/*.feather
+data/processed/*.h5
+data/processed/*.h5ad
+
+# Preserve documentation files
+!data/raw/README.md
+!data/raw/PXD043901/.gitkeep
+!data/raw/PXD043491/.gitkeep
+
+# Snakemake
+.snakemake/
+logs/
+
+# Generated figures and tables
+results/figures/*
+results/tables/*
+results/qc/*
+results/trajectories/*
+results/modules/*
+results/clinical_associations/*
+results/cross_cohort_validation/*
+
+# Preserve empty folders
+!results/**/.gitkeep
+
+# Local backups and development audits
+archive/
+scripts.backup_*/
+workflow.backup_*/
+*.backup_*
+*.bak
+
+# Local inventory files
+docs/repository_tree.txt
+
+# Local temporary schema notes
+final_figure_table_schema.txt

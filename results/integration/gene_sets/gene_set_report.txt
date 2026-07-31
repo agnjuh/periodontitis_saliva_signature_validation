@@ -1,0 +1,26 @@
+Gene-set preparation report
+===========================
+
+Node registry: results/integration/biological_network/network_node_registry.tsv
+Regulatory edge file: results/integration/regulatory_network/regulatory_edges_all.tsv
+
+Candidate panel genes: 51
+miR-143-3p-linked genes: 7
+Nonlinked candidate genes: 44
+Linked fraction of candidate panel: 0.1373
+
+miR-143-3p-linked genes:
+  B2M
+  CHI3L2
+  FLNA
+  LMNB1
+  MYH9
+  SPTAN1
+  SPTBN1
+
+Interpretation policy:
+  The linked gene set contains experimentally supported multiMiR interactions.
+  Supportive CLIP-based evidence is retained but must not be described as definitive functional regulation.
+  Absence from the linked set does not prove absence of biological regulation.
+  The candidate panel is the primary gene set for pathway enrichment.
+  The linked subset should be interpreted as an exploratory mechanistic subset because of its small size.

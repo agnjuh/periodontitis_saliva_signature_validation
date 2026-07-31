@@ -1,0 +1,5 @@
+gene_set	input_symbols	mapped_entrez_ids	mapping_fraction
+candidate_panel	51	50	0.9803921568627451
+mir143_linked	7	7	1
+nonlinked_candidate	44	43	0.9772727272727273
+enrichment_universe	482	473	0.9813278008298755

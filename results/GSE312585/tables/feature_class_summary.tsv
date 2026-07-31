@@ -1,0 +1,3 @@
+feature_class	feature_count	median_robust_contrasts	maximum_robust_contrasts	median_cumulative_robust_effect	maximum_cumulative_robust_effect	median_maximum_absolute_effect	percentage_of_signature
+miRNA_associated_locus	94	3.0	6	3.6822367566770504	20.291174010044752	1.908332627918662	96.90721649484536
+probable_miRNA_host_gene	3	3.0	3	7.000548537461542	10.10341314210224	2.494198398020659	3.0927835051546393

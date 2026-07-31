@@ -1,0 +1,13 @@
+sample_id	gsm_id	donor	method	sample_type	mirna_total_counts_before_filtering	mirna_detected_before_filtering	mirna_total_counts_after_filtering	mirna_detected_after_filtering
+WS_11113	GSM9349427	11113	WS	whole_saliva	20098	228	20002	156
+UC_11113	GSM9349428	11113	UC	extracellular_vesicle	67672	309	67429	171
+Q_11113	GSM9349429	11113	Q	extracellular_vesicle	43542	293	43311	169
+M_11113	GSM9349430	11113	M	extracellular_vesicle	61329	278	61145	169
+WS_12114	GSM9349431	12114	WS	whole_saliva	31389	268	31226	164
+UC_12114	GSM9349432	12114	UC	extracellular_vesicle	66373	348	66056	175
+Q_12114	GSM9349433	12114	Q	extracellular_vesicle	42199	321	41967	174
+M_12114	GSM9349434	12114	M	extracellular_vesicle	115276	396	114728	173
+WS_38169	GSM9349435	38169	WS	whole_saliva	112301	382	111706	172
+UC_38169	GSM9349436	38169	UC	extracellular_vesicle	217424	452	216653	175
+Q_38169	GSM9349437	38169	Q	extracellular_vesicle	192242	440	191552	175
+M_38169	GSM9349438	38169	M	extracellular_vesicle	457189	534	455884	175

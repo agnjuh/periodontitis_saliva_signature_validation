@@ -1,0 +1,17 @@
+Candidate dataset screening
+===========================
+
+Datasets assessed: 2
+
+Priority distribution:
+priority_class
+very_high    1
+low          1
+
+Ranked candidates:
+dataset_id omics_layer       disease  priority_score priority_class    status
+ PXD043901  proteomics periodontitis            15.0      very_high  included
+ PXD043491  proteomics       unknown             1.0            low screening
+
+Important:
+Scores support transparent prioritisation but do not replace manual review of clinical design, treatment, sample collection, preanalytics, and publication methods.

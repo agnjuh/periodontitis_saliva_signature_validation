@@ -1,0 +1,4 @@
+gene_set	n_genes	fraction_of_candidate_panel	description
+candidate_panel	51	1.0	All network-eligible candidate proteins from the integrated evidence registry.
+mir143_linked	7	0.13725490196078433	Candidate proteins with experimentally supported hsa-miR-143-3p interactions in multiMiR.
+nonlinked_candidate	44	0.8627450980392157	Candidate proteins without an experimentally supported hsa-miR-143-3p interaction in the current multiMiR query.

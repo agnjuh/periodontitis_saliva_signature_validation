@@ -1,0 +1,7 @@
+Initial protein groups: 1800
+After reverse/contaminant/site filtering: 1676
+After unique peptides >= 2: 878
+After detection in >= 50% of samples: 508
+Samples: 30
+Missing values in retained matrix: 1550
+Missing fraction: 0.1017

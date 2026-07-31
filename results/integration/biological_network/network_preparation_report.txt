@@ -1,0 +1,25 @@
+Biological-network preparation
+==============================
+
+Total candidate nodes: 79
+Biological evidence nodes: 54
+Biological-network eligible nodes: 54
+Regulatory miRNA source nodes: 1
+Eligible protein target nodes: 51
+Module-mapping eligible nodes: 53
+Technical method-sensitivity nodes: 25
+
+Mapping templates:
+  miRNA-target template rows: 1
+  eligible protein target reference rows: 51
+  protein-module template rows: 2
+  protein-module candidate reference rows: 51
+  network-readiness summary rows: 5
+
+Interpretation:
+  - GSE121910 mature miRNAs are eligible as biological regulatory-source nodes.
+  - PXD043901 proteins are eligible as experimentally observed biological target nodes.
+  - PXD043901 protein modules are retained as longitudinal functional-response nodes.
+  - GSE312585 loci are retained as technical robustness nodes but are excluded from disease-regulatory edges.
+  - No miRNA-target or protein-module edge is generated without an explicit reviewed mapping.
+  - Validated interaction databases, database versions, publication identifiers, and curation status must be recorded before network construction.

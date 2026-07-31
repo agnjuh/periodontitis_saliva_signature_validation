@@ -1,0 +1,24 @@
+Aggregated candidate evidence
+=============================
+
+Unique candidate features evaluated: 326
+Features retained in final panel: 79
+
+Candidate tiers:
+  high_confidence: 33
+  prioritised: 46
+  exploratory: 247
+
+Final panel by feature type:
+  protein: 51
+  miRNA_associated_locus: 24
+  protein_module: 2
+  mature_miRNA: 1
+  probable_miRNA_host_gene: 1
+
+Interpretation:
+  - Each row represents one unique feature within one dataset and evidence class.
+  - Multiple longitudinal comparisons are aggregated rather than treated as independent candidate entries.
+  - Concordant T1 and T6 protein responses receive a small replication bonus.
+  - Candidate tiers are based on both absolute score and within-feature-type percentile.
+  - Rankings remain modality-aware and should not be read as direct equivalence between proteins and miRNAs.

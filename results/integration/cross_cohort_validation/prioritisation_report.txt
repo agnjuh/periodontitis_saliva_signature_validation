@@ -1,0 +1,25 @@
+Modality-aware candidate prioritisation
+=======================================
+
+Scored evidence records: 436
+Candidate-panel records: 54
+
+Score bands:
+  very_high: 96
+  high: 245
+  moderate: 56
+  low: 39
+
+Candidate-panel records by feature type:
+  miRNA_associated_locus: 20
+  protein: 20
+  protein_module: 12
+  mature_miRNA: 1
+  probable_miRNA_host_gene: 1
+
+Scoring interpretation:
+  - Scores quantify reproducibility-oriented evidence within each evidence class.
+  - Protein, protein-module, mature-miRNA, and technical method-sensitivity scores are not direct biological equivalents.
+  - GSE312585 contributes technical robustness evidence, not disease-direction evidence.
+  - GSE121910 lacks inferential p-values and therefore receives no direction-consistency component.
+  - Cross-modality biological integration should occur later through targets, pathways, or functional modules.

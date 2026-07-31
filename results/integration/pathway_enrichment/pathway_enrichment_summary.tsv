@@ -1,0 +1,10 @@
+gene_set	database	input_symbols	mapped_entrez_ids	universe_symbols	universe_entrez_ids	tested_terms	significant_terms_fdr_0_05	minimum_adjusted_p_value
+candidate_panel	GO_BP	51	50	482	473	1380	0	0.5419574202182178
+candidate_panel	KEGG	51	50	482	473	84	0	0.8830302807696314
+candidate_panel	Reactome	51	50	482	473	218	1	0.014919576414521213
+mir143_linked	GO_BP	7	7	482	473	719	0	0.21391749391488088
+mir143_linked	KEGG	7	7	482	473	19	1	0.0021895046447159387
+mir143_linked	Reactome	7	7	482	473	115	15	0.004723798178377559
+nonlinked_candidate	GO_BP	44	43	482	473	1137	0	0.32236241563266665
+nonlinked_candidate	KEGG	44	43	482	473	72	0	0.5921431378365872
+nonlinked_candidate	Reactome	44	43	482	473	151	1	0.0033625949032198604

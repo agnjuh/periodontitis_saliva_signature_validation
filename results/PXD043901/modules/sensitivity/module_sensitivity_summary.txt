@@ -1,0 +1,21 @@
+Leave-one-protein-out sensitivity
+                    module comparison  removals_tested  minimum_positive_responses  minimum_direction_consistency  minimum_median_delta  maximum_median_delta  maximum_wilcoxon_p  robust_to_all_single_gene_removals
+         blood_erythrocyte   T1_vs_T0                3                           8                            0.8              1.325440              1.513837            0.009766                                True
+         blood_erythrocyte   T6_vs_T0                3                           9                            0.9              1.004998              1.596568            0.027344                                True
+        epithelial_barrier   T1_vs_T0               10                          10                            1.0              1.009963              1.178768            0.001953                                True
+        epithelial_barrier   T6_vs_T0               10                           9                            0.9              0.997392              1.215093            0.003906                                True
+           mucosal_defence   T1_vs_T0                8                           9                            0.9              0.995696              1.166566            0.003906                                True
+           mucosal_defence   T6_vs_T0                8                          10                            1.0              0.889267              1.103825            0.001953                                True
+   neutrophil_inflammation   T1_vs_T0                5                           9                            0.9              0.664551              0.893007            0.003906                                True
+   neutrophil_inflammation   T6_vs_T0                5                          10                            1.0              1.188414              1.327578            0.001953                                True
+          oxidative_stress   T1_vs_T0                3                          10                            1.0              1.164056              1.304647            0.001953                                True
+          oxidative_stress   T6_vs_T0                3                           9                            0.9              0.905676              1.218807            0.003906                                True
+tissue_damage_cytoskeleton   T1_vs_T0                6                          10                            1.0              0.973361              1.053214            0.001953                                True
+tissue_damage_cytoskeleton   T6_vs_T0                6                          10                            1.0              1.134876              1.271886            0.001953                                True
+
+Module-pair correlations with |rho| >= 0.70
+comparison           module_a         module_b  n_patients  spearman_rho  spearman_p
+  T1_vs_T0 epithelial_barrier oxidative_stress          10      0.806061    0.004862
+
+Important interpretation:
+These are exploratory sensitivity results. The modules were derived from the same cohort and require independent validation.

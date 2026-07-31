@@ -1,0 +1,36 @@
+module,gene_symbol,expected_treatment_direction,module_description
+epithelial_barrier,SPRR3,increase,Epithelial differentiation and barrier restoration
+epithelial_barrier,IVL,increase,Epithelial differentiation and barrier restoration
+epithelial_barrier,CRNN,increase,Epithelial differentiation and barrier restoration
+epithelial_barrier,SBSN,increase,Epithelial differentiation and barrier restoration
+epithelial_barrier,DSG3,increase,Epithelial differentiation and barrier restoration
+epithelial_barrier,DSC2,increase,Epithelial differentiation and barrier restoration
+epithelial_barrier,CSTA,increase,Epithelial differentiation and barrier restoration
+epithelial_barrier,SFN,increase,Epithelial differentiation and barrier restoration
+epithelial_barrier,SERPINB3,increase,Epithelial differentiation and barrier restoration
+epithelial_barrier,SERPINB13,increase,Epithelial differentiation and barrier restoration
+mucosal_defence,BPIFA2,increase,Salivary and mucosal antimicrobial defence
+mucosal_defence,DMBT1,increase,Salivary and mucosal antimicrobial defence
+mucosal_defence,MUC7,increase,Salivary and mucosal antimicrobial defence
+mucosal_defence,PIGR,increase,Salivary and mucosal antimicrobial defence
+mucosal_defence,ZG16B,increase,Salivary and mucosal antimicrobial defence
+mucosal_defence,TCN1,increase,Salivary and mucosal antimicrobial defence
+mucosal_defence,CLU,increase,Salivary and mucosal antimicrobial defence
+mucosal_defence,A2ML1,increase,Salivary and mucosal antimicrobial defence
+neutrophil_inflammation,S100A8,decrease,Neutrophil-associated inflammatory activity
+neutrophil_inflammation,S100A9,decrease,Neutrophil-associated inflammatory activity
+neutrophil_inflammation,S100A12,decrease,Neutrophil-associated inflammatory activity
+neutrophil_inflammation,PRTN3,decrease,Neutrophil-associated inflammatory activity
+neutrophil_inflammation,LSP1,decrease,Neutrophil-associated inflammatory activity
+blood_erythrocyte,CA1,decrease,Erythrocyte and gingival bleeding-associated signal
+blood_erythrocyte,HBD,decrease,Erythrocyte and gingival bleeding-associated signal
+blood_erythrocyte,PRDX2,decrease,Erythrocyte and gingival bleeding-associated signal
+tissue_damage_cytoskeleton,LMNB1,decrease,Intracellular structural proteins associated with cellular damage
+tissue_damage_cytoskeleton,SPTAN1,decrease,Intracellular structural proteins associated with cellular damage
+tissue_damage_cytoskeleton,SPTBN1,decrease,Intracellular structural proteins associated with cellular damage
+tissue_damage_cytoskeleton,FLNA,decrease,Intracellular structural proteins associated with cellular damage
+tissue_damage_cytoskeleton,BASP1,decrease,Intracellular structural proteins associated with cellular damage
+tissue_damage_cytoskeleton,CAPZB,decrease,Intracellular structural proteins associated with cellular damage
+oxidative_stress,CAT,decrease,Oxidative stress and redox-response proteins
+oxidative_stress,GSR,decrease,Oxidative stress and redox-response proteins
+oxidative_stress,PRDX2,decrease,Oxidative stress and redox-response proteins

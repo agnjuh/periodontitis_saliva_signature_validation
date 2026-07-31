@@ -1,0 +1,19 @@
+pathway_name	pathway_database	gene_set	pathway_p_value	pathway_fdr	fold_enrichment	pathway_gene_count	pathway_significant
+Antimicrobial peptides	Reactome	candidate_panel	6.843842391982208e-05	0.0149195764145212	5.358348968105066	7.0	True
+Cytoskeleton in muscle cells	KEGG	mir143_linked	0.00011523708656399676	0.0021895046447159	11.473684210526317	4.0	True
+Sensory processing of sound by outer hair cells of the cochlea	Reactome	mir143_linked	6.0921052536015945e-05	0.0047237981783775	29.142857142857142	3.0	True
+Sensory processing of sound by inner hair cells of the cochlea	Reactome	mir143_linked	0.0001445787645817057	0.0047237981783775	22.666666666666668	3.0	True
+Sensory processing of sound	Reactome	mir143_linked	0.00020538252949467648	0.0047237981783775	20.4	3.0	True
+Signaling by Rho GTPases	Reactome	mir143_linked	0.0001687140725015588	0.0047237981783775	6.415094339622642	5.0	True
+Signaling by Rho GTPases, Miro GTPases and RHOBTB3	Reactome	mir143_linked	0.00018550295811058576	0.0047237981783775	6.296296296296297	5.0	True
+Cell-Cell communication	Reactome	mir143_linked	0.0002808143358408554	0.005382274770283	18.545454545454543	3.0	True
+NCAM signaling for neurite out-growth	Reactome	mir143_linked	0.0005384259948154473	0.0088455699148252	45.333333333333336	2.0	True
+Nephrin family interactions	Reactome	mir143_linked	0.0017712185486772	0.0185172848270801	27.200000000000003	2.0	True
+RHO GTPases activate PAKs	Reactome	mir143_linked	0.0017712185486772	0.0185172848270801	27.200000000000003	2.0	True
+RHOU GTPase cycle	Reactome	mir143_linked	0.0017712185486772	0.0185172848270801	27.200000000000003	2.0	True
+Sensory Perception	Reactome	mir143_linked	0.0013347059900436	0.0185172848270801	11.333333333333334	3.0	True
+RHOV GTPase cycle	Reactome	mir143_linked	0.002639324095961	0.0252935225862931	22.666666666666668	2.0	True
+Signal Transduction	Reactome	mir143_linked	0.004346029095751	0.0384456420008742	3.333333333333333	5.0	True
+RHO GTPase cycle	Reactome	mir143_linked	0.005059034545949	0.0415563551988674	7.285714285714286	3.0	True
+L1CAM interactions	Reactome	mir143_linked	0.0062097543146505	0.0476081164123205	15.111111111111107	2.0	True
+Antimicrobial peptides	Reactome	nonlinked_candidate	2.226884041867457e-05	0.0033625949032198	6.276923076923077	7.0	True

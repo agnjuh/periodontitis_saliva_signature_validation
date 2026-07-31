@@ -1,0 +1,45 @@
+Pathway enrichment report
+=========================
+
+Gene-set directory: results/integration/gene_sets
+Output directory: results/integration/pathway_enrichment
+
+Statistical design:
+  Background universe symbols: 482
+  Background universe Entrez IDs: 473
+  Test: over-representation analysis
+  Multiple-testing correction: Benjamini-Hochberg
+  Significance threshold: adjusted p-value <= 0.05
+  Minimum pathway size: 3
+  Maximum pathway size: 500
+
+Gene mapping:
+  candidate_panel: 50/51 mapped (0.9804)
+  mir143_linked: 7/7 mapped (1.0000)
+  nonlinked_candidate: 43/44 mapped (0.9773)
+  enrichment_universe: 473/482 mapped (0.9813)
+
+Enrichment summary:
+  candidate_panel / GO_BP: tested terms = 1380; significant terms = 0; minimum FDR = 5.42e-01
+  candidate_panel / KEGG: tested terms = 84; significant terms = 0; minimum FDR = 8.83e-01
+  candidate_panel / Reactome: tested terms = 218; significant terms = 1; minimum FDR = 1.492e-02
+  mir143_linked / GO_BP: tested terms = 719; significant terms = 0; minimum FDR = 2.139e-01
+  mir143_linked / KEGG: tested terms = 19; significant terms = 1; minimum FDR = 2.19e-03
+  mir143_linked / Reactome: tested terms = 115; significant terms = 15; minimum FDR = 4.724e-03
+  nonlinked_candidate / GO_BP: tested terms = 1137; significant terms = 0; minimum FDR = 3.224e-01
+  nonlinked_candidate / KEGG: tested terms = 72; significant terms = 0; minimum FDR = 5.921e-01
+  nonlinked_candidate / Reactome: tested terms = 151; significant terms = 1; minimum FDR = 3.363e-03
+
+Interpretation policy:
+  The primary enrichment analysis is the candidate_panel gene set against the measurable proteomic universe.
+  The mir143_linked subset contains only seven genes and must be interpreted as exploratory.
+  The nonlinked_candidate analysis is descriptive and does not represent a formal independent control group.
+  Enrichment indicates over-representation, not activation, causation, or pathway direction.
+  Supportive miRNA-target evidence must not be described as definitive functional regulation.
+  KEGG retrieval may depend on internet availability at runtime.
+
+Main output tables:
+  results/integration/pathway_enrichment/tables/all_pathway_enrichment_results.tsv
+  results/integration/pathway_enrichment/tables/significant_pathway_enrichment_results.tsv
+  results/integration/pathway_enrichment/pathway_enrichment_summary.tsv
+
