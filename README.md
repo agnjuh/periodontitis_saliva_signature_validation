@@ -64,12 +64,16 @@ The salivary miRNA branch audits and collapses the provided expression tables, r
 ## Workflow
 
 <p align="center">
-  <img src="docs/workflow_rulegraph.png"
-       alt="Snakemake rule graph"
-       width="85%">
+  <img src="docs/workflows/full_project_workflow.png"
+       alt="Complete scientific workflow"
+       width="90%">
 </p>
 
-The project is organised as a modular Snakemake workflow. The main workflow imports dataset-specific and integration rules from:
+The repository combines three complementary analytical branches that converge into a common evidence-integration framework.
+
+The primary branch analyses longitudinal salivary proteomics (PXD043901), the second evaluates extracellular-vesicle miRNA robustness (GSE312585), and the third provides exploratory salivary miRNA evidence (GSE121910). These evidence layers are harmonised through a common candidate registry, followed by regulatory mapping, pathway enrichment, candidate-network construction, and generation of the final integrated validation framework.
+
+The computational implementation is organised as a modular Snakemake workflow. The main workflow imports dataset-specific and integration rules from:
 
 ```text
 workflow/

@@ -1,0 +1,164 @@
+digraph full_project_workflow {
+
+    graph [
+        rankdir=TB,
+        bgcolor="white",
+        pad=0.35,
+        nodesep=0.45,
+        ranksep=0.60,
+        fontname="Arial",
+        label="Complete scientific workflow",
+        labelloc="t",
+        fontsize=20
+    ];
+
+    node [
+        shape=box,
+        style="rounded,filled",
+        fillcolor="white",
+        color="#5A6772",
+        fontname="Arial",
+        fontsize=11,
+        margin="0.18,0.10"
+    ];
+
+    edge [
+        color="#6B7280",
+        arrowsize=0.75,
+        penwidth=1.2
+    ];
+
+    screening [
+        label="Dataset screening\nand prioritisation",
+        fillcolor="#F3F4F6"
+    ];
+
+    pxd [
+        label="PXD043901\nlongitudinal salivary proteomics",
+        fillcolor="#E8F1FA"
+    ];
+
+    pxd_qc [
+        label="Quality control and\nprotein matrix preparation"
+    ];
+
+    pxd_response [
+        label="Patient-level longitudinal\nresponses: T1−T0 and T6−T0"
+    ];
+
+    pxd_stats [
+        label="Longitudinal statistics and\nprotein trajectory classification"
+    ];
+
+    pxd_modules [
+        label="Biological module scoring"
+    ];
+
+    pxd_loo [
+        label="Leave-one-protein-out\nmodule sensitivity"
+    ];
+
+    gse121 [
+        label="GSE121910\nsalivary miRNA evidence",
+        fillcolor="#F1EAF8"
+    ];
+
+    gse121_process [
+        label="Table audit, curation,\nsequence collapsing and prioritisation"
+    ];
+
+    gse312 [
+        label="GSE312585\nextracellular-vesicle miRNA",
+        fillcolor="#E7F5F2"
+    ];
+
+    gse312_qc [
+        label="Count preparation,\nQC and donor-centred analysis"
+    ];
+
+    gse312_effects [
+        label="Paired method effects,\nrobustness and feature classification"
+    ];
+
+    registry [
+        label="Cross-cohort evidence registry",
+        fillcolor="#FFF4D8"
+    ];
+
+    scoring [
+        label="Modality-aware candidate scoring\nand evidence aggregation",
+        fillcolor="#FFF4D8"
+    ];
+
+    candidates [
+        label="Prioritised candidate panel",
+        fillcolor="#FFE9C2"
+    ];
+
+    reference [
+        label="Curated miRNA-target\nreference evidence",
+        fillcolor="#F3F4F6"
+    ];
+
+    regulatory [
+        label="Regulatory target overlap\nand edge classification"
+    ];
+
+    genesets [
+        label="Gene-set preparation and\nmeasurable enrichment universe"
+    ];
+
+    enrichment [
+        label="GO, KEGG and Reactome\nenrichment analysis"
+    ];
+
+    network [
+        label="Candidate–miRNA–pathway network"
+    ];
+
+    finalfigure [
+        label="Integrated validation framework\nand final repository figure",
+        fillcolor="#DCEAF7",
+        penwidth=1.6
+    ];
+
+    screening -> pxd;
+    screening -> gse121;
+    screening -> gse312;
+
+    pxd -> pxd_qc;
+    pxd_qc -> pxd_response;
+    pxd_response -> pxd_stats;
+    pxd_stats -> pxd_modules;
+    pxd_modules -> pxd_loo;
+
+    gse121 -> gse121_process;
+
+    gse312 -> gse312_qc;
+    gse312_qc -> gse312_effects;
+
+    pxd_stats -> registry;
+    pxd_loo -> registry;
+    gse121_process -> registry;
+    gse312_effects -> registry;
+
+    registry -> scoring;
+    scoring -> candidates;
+
+    candidates -> regulatory;
+    reference -> regulatory;
+
+    candidates -> genesets;
+    regulatory -> genesets;
+
+    genesets -> enrichment;
+    regulatory -> network;
+    enrichment -> network;
+
+    pxd_stats -> finalfigure;
+    pxd_modules -> finalfigure;
+    pxd_loo -> finalfigure;
+    candidates -> finalfigure;
+    enrichment -> finalfigure;
+    network -> finalfigure;
+}
