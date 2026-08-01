@@ -7,7 +7,7 @@ digraph full_project_workflow {
         nodesep=0.45,
         ranksep=0.60,
         fontname="Arial",
-        label="Complete scientific workflow",
+        label="Integrated multi-omics workflow for salivary biomarker validation",
         labelloc="t",
         fontsize=20
     ];
